@@ -124,8 +124,8 @@
       "mesaj": "sğlk tarafında teletıp çözümü",
       "lang": "tr",
       "beklenen_sektor": "saglik",
-      "zorluk": "kisaltma",
       "beklenen_mod": "K1",
+      "zorluk": "kisaltma",
       "normalize_mesaj": "sğlk tarafında teletıp çözümü",
       "ham_mesaj": "sğlk tarafında teletıp çözümü"
     },
@@ -1513,10 +1513,9 @@
       "id": 64,
       "mesaj": "askeri personele uzaktan prosedür eğitimi vereceğiz",
       "lang": "tr",
-      "beklened_sektor": "eğitim",
+      "beklenen_sektor": "ood",
       "beklenen_mod": "K2",
       "zorluk": "tuzak",
-      "beklenen_sektor": "ood",
       "normalize_mesaj": "askeri personele uzaktan prosedür eğitimi vereceğiz",
       "ham_mesaj": "askeri personele uzaktan prosedür eğitimi vereceğiz"
     },
@@ -1524,10 +1523,9 @@
       "id": 402,
       "mesaj": "looking for a student information system with grade and attendance tracking",
       "lang": "en",
-      "beklened_sektor": "eğitim",
+      "beklenen_sektor": "egitim",
       "beklenen_mod": "K2",
       "zorluk": "dogrudan",
-      "beklenen_sektor": "ood",
       "normalize_mesaj": "looking for a student information system with grade and attendance tracking",
       "ham_mesaj": "looking for a student information system with grade and attendance tracking"
     },
@@ -1535,10 +1533,9 @@
       "id": 403,
       "mesaj": "we want to implement an online examination and assessment platform",
       "lang": "en",
-      "beklened_sektor": "eğitim",
+      "beklenen_sektor": "egitim",
       "beklenen_mod": "K2",
       "zorluk": "dogrudan",
-      "beklenen_sektor": "ood",
       "normalize_mesaj": "we want to implement an online examination and assessment platform",
       "ham_mesaj": "we want to implement an online examination and assessment platform"
     },
@@ -1546,10 +1543,9 @@
       "id": 404,
       "mesaj": "need an e-learning content delivery platform for our institution",
       "lang": "en",
-      "beklened_sektor": "eğitim",
+      "beklenen_sektor": "egitim",
       "beklenen_mod": "K2",
       "zorluk": "dogrudan",
-      "beklenen_sektor": "ood",
       "normalize_mesaj": "need an e-learning content delivery platform for our institution",
       "ham_mesaj": "need an e-learning content delivery platform for our institution"
     },
@@ -1557,10 +1553,9 @@
       "id": 405,
       "mesaj": "we are looking for a comprehensive school management system covering administration academics and parent communication",
       "lang": "en",
-      "beklened_sektor": "eğitim",
+      "beklenen_sektor": "egitim",
       "beklenen_mod": "K2",
       "zorluk": "uzun_kurumsal",
-      "beklenen_sektor": "ood",
       "normalize_mesaj": "we are looking for a comprehensive school management system covering administration academics and parent communication",
       "ham_mesaj": "we are looking for a comprehensive school management system covering administration academics and parent communication"
     },
@@ -1568,10 +1563,9 @@
       "id": 406,
       "mesaj": "digital library management software needed",
       "lang": "en",
-      "beklened_sektor": "eğitim",
+      "beklenen_sektor": "egitim",
       "beklenen_mod": "K2",
       "zorluk": "dogrudan",
-      "beklenen_sektor": "ood",
       "normalize_mesaj": "digital library management software needed",
       "ham_mesaj": "digital library management software needed"
     },
@@ -1579,10 +1573,9 @@
       "id": 407,
       "mesaj": "we want a parent-teacher communication and notification platform",
       "lang": "en",
-      "beklened_sektor": "eğitim",
+      "beklenen_sektor": "egitim",
       "beklenen_mod": "K2",
       "zorluk": "dogrudan",
-      "beklenen_sektor": "ood",
       "normalize_mesaj": "we want a parent-teacher communication and notification platform",
       "ham_mesaj": "we want a parent-teacher communication and notification platform"
     },
@@ -1590,10 +1583,9 @@
       "id": 408,
       "mesaj": "looking for course registration and curriculum planning software",
       "lang": "en",
-      "beklened_sektor": "eğitim",
+      "beklenen_sektor": "egitim",
       "beklenen_mod": "K2",
       "zorluk": "dogrudan",
-      "beklenen_sektor": "ood",
       "normalize_mesaj": "looking for course registration and curriculum planning software",
       "ham_mesaj": "looking for course registration and curriculum planning software"
     },
@@ -1601,10 +1593,9 @@
       "id": 409,
       "mesaj": "we need a remote training platform for professional development",
       "lang": "en",
-      "beklened_sektor": "eğitim",
+      "beklenen_sektor": "egitim",
       "beklenen_mod": "K2",
       "zorluk": "dogrudan",
-      "beklenen_sektor": "ood",
       "normalize_mesaj": "we need a remote training platform for professional development",
       "ham_mesaj": "we need a remote training platform for professional development"
     },
@@ -1612,10 +1603,9 @@
       "id": 410,
       "mesaj": "need an educational analytics and student performance dashboard",
       "lang": "en",
-      "beklened_sektor": "eğitim",
+      "beklenen_sektor": "egitim",
       "beklenen_mod": "K2",
       "zorluk": "dogrudan",
-      "beklenen_sektor": "ood",
       "normalize_mesaj": "need an educational analytics and student performance dashboard",
       "ham_mesaj": "need an educational analytics and student performance dashboard"
     },
@@ -1623,10 +1613,9 @@
       "id": 80,
       "mesaj": "fiyat teklifi",
       "lang": "tr",
-      "beklened_sektor": "belirsiz",
+      "beklenen_sektor": "belirsiz",
       "beklenen_mod": "FB",
       "zorluk": "belirsiz",
-      "beklenen_sektor": "ood",
       "normalize_mesaj": "fiyat teklifi",
       "ham_mesaj": "fiyat teklifi"
     },
@@ -1634,10 +1623,9 @@
       "id": 81,
       "mesaj": "hava çok güzeldi",
       "lang": "tr",
-      "beklened_sektor": "belirsiz",
+      "beklenen_sektor": "belirsiz",
       "beklenen_mod": "FB",
       "zorluk": "belirsiz",
-      "beklenen_sektor": "ood",
       "normalize_mesaj": "hava çok güzeldi",
       "ham_mesaj": "hava çok güzeldi"
     },
@@ -1645,10 +1633,9 @@
       "id": 82,
       "mesaj": "nasıl çalışıyorsunuz bilgi",
       "lang": "tr",
-      "beklened_sektor": "belirsiz",
+      "beklenen_sektor": "belirsiz",
       "beklenen_mod": "FB",
       "zorluk": "belirsiz",
-      "beklenen_sektor": "ood",
       "normalize_mesaj": "nasıl çalışıyorsunuz bilgi",
       "ham_mesaj": "nasıl çalışıyorsunuz bilgi"
     },
@@ -1656,10 +1643,9 @@
       "id": 83,
       "mesaj": "fiyatlarınız nedir",
       "lang": "tr",
-      "beklened_sektor": "belirsiz",
+      "beklenen_sektor": "belirsiz",
       "beklenen_mod": "FB",
       "zorluk": "belirsiz",
-      "beklenen_sektor": "ood",
       "normalize_mesaj": "fiyatlarınız nedir",
       "ham_mesaj": "fiyatlarınız nedir"
     },
@@ -1667,10 +1653,9 @@
       "id": 84,
       "mesaj": "demo görmek",
       "lang": "tr",
-      "beklened_sektor": "belirsiz",
+      "beklenen_sektor": "belirsiz",
       "beklenen_mod": "FB",
       "zorluk": "belirsiz",
-      "beklenen_sektor": "ood",
       "normalize_mesaj": "demo görmek",
       "ham_mesaj": "demo görmek"
     },
@@ -1678,10 +1663,9 @@
       "id": 501,
       "mesaj": "i need a price quote for your software",
       "lang": "en",
-      "beklened_sektor": "belirsiz",
+      "beklenen_sektor": "belirsiz",
       "beklenen_mod": "FB",
       "zorluk": "belirsiz",
-      "beklenen_sektor": "ood",
       "normalize_mesaj": "i need a price quote for your software",
       "ham_mesaj": "i need a price quote for your software"
     },
@@ -1689,10 +1673,9 @@
       "id": 502,
       "mesaj": "what are your pricing options",
       "lang": "en",
-      "beklened_sektor": "belirsiz",
+      "beklenen_sektor": "belirsiz",
       "beklenen_mod": "FB",
       "zorluk": "belirsiz",
-      "beklenen_sektor": "ood",
       "normalize_mesaj": "what are your pricing options",
       "ham_mesaj": "what are your pricing options"
     },
@@ -1700,10 +1683,9 @@
       "id": 503,
       "mesaj": "can i request a demo",
       "lang": "en",
-      "beklened_sektor": "belirsiz",
+      "beklenen_sektor": "belirsiz",
       "beklenen_mod": "FB",
       "zorluk": "belirsiz",
-      "beklenen_sektor": "ood",
       "normalize_mesaj": "can i request a demo",
       "ham_mesaj": "can i request a demo"
     },
@@ -1711,10 +1693,9 @@
       "id": 504,
       "mesaj": "how does your company work",
       "lang": "en",
-      "beklened_sektor": "belirsiz",
-      "zorluk": "belirsiz",
+      "beklenen_sektor": "belirsiz",
       "beklenen_mod": "FB",
-      "beklenen_sektor": "ood",
+      "zorluk": "belirsiz",
       "normalize_mesaj": "how does your company work",
       "ham_mesaj": "how does your company work"
     },
@@ -1722,10 +1703,9 @@
       "id": 505,
       "mesaj": "i would like some general information please",
       "lang": "en",
-      "beklened_sektor": "belirsiz",
-      "zorluk": "belirsiz",
+      "beklenen_sektor": "belirsiz",
       "beklenen_mod": "FB",
-      "beklenen_sektor": "ood",
+      "zorluk": "belirsiz",
       "normalize_mesaj": "i would like some general information please",
       "ham_mesaj": "i would like some general information please"
     },
@@ -1753,7 +1733,7 @@
       "id": 757,
       "mesaj": "doktor çalışma takvimi muayene notları ve hasta dosyası yönetimi",
       "lang": "tr",
-      "beklenen_sektor": "ood",
+      "beklenen_sektor": "saglik",
       "beklenen_mod": "K2",
       "zorluk": "dogrudan",
       "normalize_mesaj": "doktor çalışma takvimi muayene notları ve hasta dosyası yönetimi",
@@ -1793,7 +1773,7 @@
       "id": 877,
       "mesaj": "muayene yönetim sistemi",
       "lang": "tr",
-      "beklenen_sektor": "ood",
+      "beklenen_sektor": "saglik",
       "beklenen_mod": "K2",
       "zorluk": "augmented_prefix_suffix",
       "kaynak_kok": "muayene yönetim sistemi",
@@ -1808,7 +1788,7 @@
       "id": 878,
       "mesaj": "muayene yonetim sistemi",
       "lang": "tr",
-      "beklenen_sektor": "ood",
+      "beklenen_sektor": "saglik",
       "beklenen_mod": "K2",
       "zorluk": "augmented_prefix_suffix_ascii",
       "kaynak_kok": "muayene yönetim sistemi",
@@ -1823,7 +1803,7 @@
       "id": 880,
       "mesaj": "lutfen muayene yonetim sistemi",
       "lang": "tr",
-      "beklenen_sektor": "ood",
+      "beklenen_sektor": "saglik",
       "beklenen_mod": "K2",
       "zorluk": "augmented_prefix_suffix_ascii",
       "kaynak_kok": "muayene yönetim sistemi",
@@ -1838,7 +1818,7 @@
       "id": 893,
       "mesaj": "muayene yönetim sistemi entegrasyonu",
       "lang": "tr",
-      "beklenen_sektor": "ood",
+      "beklenen_sektor": "saglik",
       "beklenen_mod": "K2",
       "zorluk": "augmented_prefix_suffix",
       "kaynak_kok": "muayene yönetim sistemi",
@@ -1853,7 +1833,7 @@
       "id": 894,
       "mesaj": "muayene yonetim sistemi entegrasyonu",
       "lang": "tr",
-      "beklenen_sektor": "ood",
+      "beklenen_sektor": "saglik",
       "beklenen_mod": "K2",
       "zorluk": "augmented_prefix_suffix_ascii",
       "kaynak_kok": "muayene yönetim sistemi",
@@ -1868,7 +1848,7 @@
       "id": 895,
       "mesaj": "muayene yönetim sistemi yazılımı",
       "lang": "tr",
-      "beklenen_sektor": "ood",
+      "beklenen_sektor": "saglik",
       "beklenen_mod": "K2",
       "zorluk": "augmented_prefix_suffix",
       "kaynak_kok": "muayene yönetim sistemi",
@@ -1883,7 +1863,7 @@
       "id": 896,
       "mesaj": "muayene yonetim sistemi yazilimi",
       "lang": "tr",
-      "beklenen_sektor": "ood",
+      "beklenen_sektor": "saglik",
       "beklenen_mod": "K2",
       "zorluk": "augmented_prefix_suffix_ascii",
       "kaynak_kok": "muayene yönetim sistemi",
@@ -1898,7 +1878,7 @@
       "id": 903,
       "mesaj": "muayene yönetim sistemi hizmeti almak",
       "lang": "tr",
-      "beklenen_sektor": "ood",
+      "beklenen_sektor": "saglik",
       "beklenen_mod": "K2",
       "zorluk": "augmented_prefix_suffix",
       "kaynak_kok": "muayene yönetim sistemi",
@@ -1913,7 +1893,7 @@
       "id": 904,
       "mesaj": "muayene yonetim sistemi hizmeti almak",
       "lang": "tr",
-      "beklenen_sektor": "ood",
+      "beklenen_sektor": "saglik",
       "beklenen_mod": "K2",
       "zorluk": "augmented_prefix_suffix_ascii",
       "kaynak_kok": "muayene yönetim sistemi",
@@ -2062,7 +2042,7 @@
     {
       "id": 2842,
       "mesaj": "nato standartlarinda guvenli mesajlasma",
-      "lang": "en",
+      "lang": "tr",
       "beklenen_sektor": "ood",
       "beklenen_mod": "K2",
       "zorluk": "augmented_prefix_suffix_ascii",
@@ -2077,7 +2057,7 @@
     {
       "id": 2870,
       "mesaj": "lutfen nato standartlarinda guvenli mesajlasma entegrasyonu",
-      "lang": "en",
+      "lang": "tr",
       "beklenen_sektor": "ood",
       "beklenen_mod": "K2",
       "zorluk": "augmented_prefix_suffix_ascii",
@@ -2092,7 +2072,7 @@
     {
       "id": 2880,
       "mesaj": "lutfen nato standartlarinda guvenli mesajlasma hizmeti almak",
-      "lang": "en",
+      "lang": "tr",
       "beklenen_sektor": "ood",
       "beklenen_mod": "K2",
       "zorluk": "augmented_prefix_suffix_ascii",
@@ -2599,8 +2579,8 @@
       "mesaj": "we need an ota integration and rate management solution",
       "lang": "en",
       "beklenen_sektor": "turizm",
-      "zorluk": "dogrudan",
       "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
       "normalize_mesaj": "we need an ota integration and rate management solution",
       "ham_mesaj": "we need an ota integration and rate management solution"
     },
@@ -2722,7 +2702,7 @@
     {
       "id": 1827,
       "mesaj": "lutfen travel agency booking",
-      "lang": "en",
+      "lang": "tr",
       "beklenen_sektor": "turizm",
       "beklenen_mod": "K2",
       "zorluk": "augmented_prefix_suffix_ascii",
@@ -2782,7 +2762,7 @@
     {
       "id": 1926,
       "mesaj": "check-in cozumu",
-      "lang": "en",
+      "lang": "tr",
       "beklenen_sektor": "turizm",
       "beklenen_mod": "K2",
       "zorluk": "augmented_prefix_suffix_ascii",
@@ -2797,7 +2777,7 @@
     {
       "id": 1928,
       "mesaj": "lutfen check-in cozumu",
-      "lang": "en",
+      "lang": "tr",
       "beklenen_sektor": "turizm",
       "beklenen_mod": "K2",
       "zorluk": "augmented_prefix_suffix_ascii",
@@ -2827,7 +2807,7 @@
     {
       "id": 1942,
       "mesaj": "check-in cozumu entegrasyonu",
-      "lang": "en",
+      "lang": "tr",
       "beklenen_sektor": "turizm",
       "beklenen_mod": "K2",
       "zorluk": "augmented_prefix_suffix_ascii",
@@ -2857,7 +2837,7 @@
     {
       "id": 1952,
       "mesaj": "check-in cozumu hizmeti almak",
-      "lang": "en",
+      "lang": "tr",
       "beklenen_sektor": "turizm",
       "beklenen_mod": "K2",
       "zorluk": "augmented_prefix_suffix_ascii",
@@ -3783,7 +3763,7 @@
       "id": 2859,
       "mesaj": "nato standartlarında güvenli mesajlaşma yazılımı",
       "lang": "tr",
-      "beklenen_sektor": "bilisim",
+      "beklenen_sektor": "ood",
       "beklenen_mod": "K2",
       "zorluk": "augmented_prefix_suffix",
       "kaynak_kok": "NATO standartlarında güvenli mesajlaşma",
@@ -3797,8 +3777,8 @@
     {
       "id": 2860,
       "mesaj": "nato standartlarinda guvenli mesajlasma yazilimi",
-      "lang": "en",
-      "beklenen_sektor": "bilisim",
+      "lang": "tr",
+      "beklenen_sektor": "ood",
       "beklenen_mod": "K2",
       "zorluk": "augmented_prefix_suffix_ascii",
       "kaynak_kok": "NATO standartlarında güvenli mesajlaşma",
@@ -4485,18 +4465,17 @@
       "ham_mesaj": "lutfen kkk yazilimi"
     },
     {
-      "id": "new_bilisim_1",
-      "source_id": 9000,
-      "lang": "tr",
+      "id": 9000,
       "mesaj": "kurumsal api entegrasyon çözümleri",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "dogrudan",
       "varyant": "duz",
       "prefix": "",
       "suffix": "",
-      "ham_mesaj": "kurumsal api entegrasyon çözümleri",
       "normalize_mesaj": "kurumsal api entegrasyon çözümleri",
-      "beklenen_sektor": "bilisim",
-      "beklenen_mod": "K2",
-      "zorluk": "dogrudan"
+      "ham_mesaj": "kurumsal api entegrasyon çözümleri"
     },
     {
       "id": 60,
@@ -4523,8 +4502,8 @@
       "mesaj": "üniversite genelinde lms sınav otomasyonu ve veli-öğretmen iletişimini kapsayan bir öğrenci bilgi sistemi kuracağız",
       "lang": "tr",
       "beklenen_sektor": "egitim",
-      "zorluk": "uzun_kurumsal",
       "beklenen_mod": "K1",
+      "zorluk": "uzun_kurumsal",
       "normalize_mesaj": "üniversite genelinde lms sınav otomasyonu ve veli-öğretmen iletişimini kapsayan bir öğrenci bilgi sistemi kuracağız",
       "ham_mesaj": "üniversite genelinde lms sınav otomasyonu ve veli-öğretmen iletişimini kapsayan bir öğrenci bilgi sistemi kuracağız"
     },
@@ -4613,8 +4592,8 @@
       "mesaj": "we need a learning management system for our university",
       "lang": "en",
       "beklenen_sektor": "egitim",
-      "zorluk": "dogrudan",
       "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
       "normalize_mesaj": "we need a learning management system for our university",
       "ham_mesaj": "we need a learning management system for our university"
     },
@@ -5499,101 +5478,110 @@
       "ham_mesaj": "obys hizmeti almak"
     },
     {
-      "id": "new_eglence_1",
-      "source_id": 9500,
-      "lang": "tr",
+      "id": 300126,
       "mesaj": "ott streaming platformu yayın lisansı",
+      "lang": "tr",
+      "beklenen_sektor": "eglence",
+      "beklenen_mod": "K2",
+      "zorluk": "dogrudan",
       "varyant": "duz",
       "prefix": "",
       "suffix": "",
-      "ham_mesaj": "ott streaming platformu yayın lisansı",
       "normalize_mesaj": "ott streaming platformu yayın lisansı",
-      "beklenen_sektor": "eglence",
-      "beklenen_mod": "K2",
-      "zorluk": "dogrudan"
+      "ham_mesaj": "ott streaming platformu yayın lisansı"
     },
     {
-      "id": "new_eglence_9",
-      "source_id": 9500,
-      "lang": "tr",
+      "id": 300127,
       "mesaj": "ott streaming platformu yayın lisansı entegrasyonu",
+      "lang": "tr",
+      "beklenen_sektor": "eglence",
+      "beklenen_mod": "K2",
+      "zorluk": "dogrudan",
+      "kaynak_kok": "ott streaming platformu yayın lisansı",
       "varyant": "suffix",
       "prefix": "",
       "suffix": "entegrasyonu istiyoruz",
-      "ham_mesaj": "ott streaming platformu yayın lisansı entegrasyonu",
+      "ascii_twin": false,
       "normalize_mesaj": "ott streaming platformu yayın lisansı entegrasyonu",
-      "beklenen_sektor": "eglence",
-      "beklenen_mod": "K2",
-      "zorluk": "dogrudan"
+      "ham_mesaj": "ott streaming platformu yayın lisansı entegrasyonu"
     },
     {
-      "id": "new_eglence_10",
-      "source_id": 9500,
-      "lang": "tr",
+      "id": 300128,
       "mesaj": "ott streaming platformu yayın lisansı yazılımı",
+      "lang": "tr",
+      "beklenen_sektor": "eglence",
+      "beklenen_mod": "K2",
+      "zorluk": "dogrudan",
+      "kaynak_kok": "ott streaming platformu yayın lisansı",
       "varyant": "suffix",
       "prefix": "",
       "suffix": "yazılımı gerekiyor",
-      "ham_mesaj": "ott streaming platformu yayın lisansı yazılımı",
+      "ascii_twin": false,
       "normalize_mesaj": "ott streaming platformu yayın lisansı yazılımı",
-      "beklenen_sektor": "eglence",
-      "beklenen_mod": "K2",
-      "zorluk": "dogrudan"
+      "ham_mesaj": "ott streaming platformu yayın lisansı yazılımı"
     },
     {
-      "id": "new_eglence_12",
-      "source_id": 9500,
-      "lang": "tr",
+      "id": 300129,
       "mesaj": "ott streaming platformu yayın lisansı sistemi",
+      "lang": "tr",
+      "beklenen_sektor": "eglence",
+      "beklenen_mod": "K2",
+      "zorluk": "dogrudan",
+      "kaynak_kok": "ott streaming platformu yayın lisansı",
       "varyant": "suffix",
       "prefix": "",
       "suffix": "sistemi lazım",
-      "ham_mesaj": "ott streaming platformu yayın lisansı sistemi",
+      "ascii_twin": false,
       "normalize_mesaj": "ott streaming platformu yayın lisansı sistemi",
-      "beklenen_sektor": "eglence",
-      "beklenen_mod": "K2",
-      "zorluk": "dogrudan"
+      "ham_mesaj": "ott streaming platformu yayın lisansı sistemi"
     },
     {
-      "id": "new_eglence_14",
-      "source_id": 9500,
-      "lang": "tr",
+      "id": 300130,
       "mesaj": "ott streaming platformu yayın lisansı hizmeti almak",
+      "lang": "tr",
+      "beklenen_sektor": "eglence",
+      "beklenen_mod": "K2",
+      "zorluk": "dogrudan",
+      "kaynak_kok": "ott streaming platformu yayın lisansı",
       "varyant": "suffix",
       "prefix": "",
       "suffix": "hizmeti almak istiyoruz",
-      "ham_mesaj": "ott streaming platformu yayın lisansı hizmeti almak",
+      "ascii_twin": false,
       "normalize_mesaj": "ott streaming platformu yayın lisansı hizmeti almak",
-      "beklenen_sektor": "eglence",
-      "beklenen_mod": "K2",
-      "zorluk": "dogrudan"
+      "ham_mesaj": "ott streaming platformu yayın lisansı hizmeti almak"
     },
     {
       "id": 4477,
       "mesaj": "Ofise 50 adet ahşap masa, 100 tane ergo sandalye alacağız.",
       "lang": "tr",
-      "beklenen_sektor": "ood",
+      "beklenen_sektor": "belirsiz",
       "beklenen_mod": "FB",
       "zorluk": "tuzak",
-      "weight": 2.0
+      "normalize_mesaj": "ofise 50 adet ahşap masa, 100 tane ergo sandalye alacağız.",
+      "ham_mesaj": "Ofise 50 adet ahşap masa, 100 tane ergo sandalye alacağız.",
+      "beklened_mod": "FB"
     },
     {
       "id": 4478,
       "mesaj": "Toplantı odası için masalar, sandalyeler ve dolap yaptıracağız.",
       "lang": "tr",
-      "beklenen_sektor": "ood",
+      "beklenen_sektor": "belirsiz",
       "beklenen_mod": "FB",
       "zorluk": "tuzak",
-      "weight": 2.0
+      "normalize_mesaj": "toplantı odası için masalar, sandalyeler ve dolap yaptıracağız.",
+      "ham_mesaj": "Toplantı odası için masalar, sandalyeler ve dolap yaptıracağız.",
+      "beklened_mod": "FB"
     },
     {
       "id": 4479,
-      "mesaj": "Ofis mobilyası, çalışma masası ve koltuk tedariği arıyoruz.",
+      "mesaj": "Ofis mobilyası, çalışma masası ve koltuk tedariki arıyoruz.",
       "lang": "tr",
-      "beklenen_sektor": "ood",
+      "beklenen_sektor": "belirsiz",
       "beklenen_mod": "FB",
       "zorluk": "tuzak",
-      "weight": 2.0
+      "normalize_mesaj": "ofis mobilyası, çalışma masası ve koltuk tedariki arıyoruz.",
+      "ham_mesaj": "Ofis mobilyası, çalışma masası ve koltuk tedariki arıyoruz.",
+      "beklened_mod": "FB"
     },
     {
       "id": 4480,
@@ -5602,7 +5590,8 @@
       "beklenen_sektor": "bilisim",
       "beklenen_mod": "K2",
       "zorluk": "dogrudan",
-      "weight": 1.8
+      "normalize_mesaj": "we are looking for a b2b saas vendor to implement a custom crm platform.",
+      "ham_mesaj": "We are looking for a B2B SaaS vendor to implement a custom CRM platform."
     },
     {
       "id": 4481,
@@ -5611,7 +5600,8 @@
       "beklenen_sektor": "bilisim",
       "beklenen_mod": "K2",
       "zorluk": "dogrudan",
-      "weight": 1.5
+      "normalize_mesaj": "looking for a reliable saas vendor for enterprise crm solutions.",
+      "ham_mesaj": "Looking for a reliable SaaS vendor for enterprise CRM solutions."
     },
     {
       "id": 4482,
@@ -5620,7 +5610,8 @@
       "beklenen_sektor": "bilisim",
       "beklenen_mod": "K2",
       "zorluk": "dogrudan",
-      "weight": 1.5
+      "normalize_mesaj": "need a third-party vendor to integrate a custom crm system.",
+      "ham_mesaj": "Need a third-party vendor to integrate a custom CRM system."
     },
     {
       "id": 4483,
@@ -5629,7 +5620,8 @@
       "beklenen_sektor": "bilisim",
       "beklenen_mod": "K2",
       "zorluk": "dogrudan",
-      "weight": 1.8
+      "normalize_mesaj": "mevcut erp üzerine custom dashboard ve bi tool entegre etmek istiyoruz.",
+      "ham_mesaj": "Mevcut ERP üzerine custom dashboard ve BI tool entegre etmek istiyoruz."
     },
     {
       "id": 4484,
@@ -5638,7 +5630,8 @@
       "beklenen_sektor": "bilisim",
       "beklenen_mod": "K2",
       "zorluk": "dogrudan",
-      "weight": 1.5
+      "normalize_mesaj": "erp verilerimizi görselleştirmek için bi dashboard entegrasyonu lazım.",
+      "ham_mesaj": "ERP verilerimizi görselleştirmek için BI dashboard entegrasyonu lazım."
     },
     {
       "id": 4485,
@@ -5647,7 +5640,8 @@
       "beklenen_sektor": "bilisim",
       "beklenen_mod": "K2",
       "zorluk": "dogrudan",
-      "weight": 1.5
+      "normalize_mesaj": "raporlama için custom dashboard ve analitik yazılımı arıyoruz.",
+      "ham_mesaj": "Raporlama için custom dashboard ve analitik yazılımı arıyoruz."
     },
     {
       "id": 200000,
@@ -5659,8 +5653,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "sistemi",
-      "ham_mesaj": "konser bilet satış sistemi",
-      "normalize_mesaj": "konser bilet satış sistemi"
+      "normalize_mesaj": "konser bilet satış sistemi",
+      "ham_mesaj": "konser bilet satış sistemi"
     },
     {
       "id": 200001,
@@ -5672,8 +5666,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "yazılımı",
-      "ham_mesaj": "konser bilet satış yazılımı",
-      "normalize_mesaj": "konser bilet satış yazılımı"
+      "normalize_mesaj": "konser bilet satış yazılımı",
+      "ham_mesaj": "konser bilet satış yazılımı"
     },
     {
       "id": 200002,
@@ -5685,8 +5679,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "altyapısı",
-      "ham_mesaj": "konser bilet satış altyapısı",
-      "normalize_mesaj": "konser bilet satış altyapısı"
+      "normalize_mesaj": "konser bilet satış altyapısı",
+      "ham_mesaj": "konser bilet satış altyapısı"
     },
     {
       "id": 200003,
@@ -5698,8 +5692,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "platformu",
-      "ham_mesaj": "konser bilet satış platformu",
-      "normalize_mesaj": "konser bilet satış platformu"
+      "normalize_mesaj": "konser bilet satış platformu",
+      "ham_mesaj": "konser bilet satış platformu"
     },
     {
       "id": 200004,
@@ -5711,8 +5705,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "çözümü",
-      "ham_mesaj": "konser bilet satış çözümü",
-      "normalize_mesaj": "konser bilet satış çözümü"
+      "normalize_mesaj": "konser bilet satış çözümü",
+      "ham_mesaj": "konser bilet satış çözümü"
     },
     {
       "id": 200005,
@@ -5724,8 +5718,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "entegrasyonu",
-      "ham_mesaj": "konser bilet satış entegrasyonu",
-      "normalize_mesaj": "konser bilet satış entegrasyonu"
+      "normalize_mesaj": "konser bilet satış entegrasyonu",
+      "ham_mesaj": "konser bilet satış entegrasyonu"
     },
     {
       "id": 200006,
@@ -5737,8 +5731,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "sistemi",
-      "ham_mesaj": "acil konser bilet satış sistemi",
-      "normalize_mesaj": "acil konser bilet satış sistemi"
+      "normalize_mesaj": "acil konser bilet satış sistemi",
+      "ham_mesaj": "acil konser bilet satış sistemi"
     },
     {
       "id": 200007,
@@ -5750,8 +5744,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "yazılımı",
-      "ham_mesaj": "acil konser bilet satış yazılımı",
-      "normalize_mesaj": "acil konser bilet satış yazılımı"
+      "normalize_mesaj": "acil konser bilet satış yazılımı",
+      "ham_mesaj": "acil konser bilet satış yazılımı"
     },
     {
       "id": 200008,
@@ -5763,8 +5757,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "altyapısı",
-      "ham_mesaj": "acil konser bilet satış altyapısı",
-      "normalize_mesaj": "acil konser bilet satış altyapısı"
+      "normalize_mesaj": "acil konser bilet satış altyapısı",
+      "ham_mesaj": "acil konser bilet satış altyapısı"
     },
     {
       "id": 200009,
@@ -5776,8 +5770,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "platformu",
-      "ham_mesaj": "acil konser bilet satış platformu",
-      "normalize_mesaj": "acil konser bilet satış platformu"
+      "normalize_mesaj": "acil konser bilet satış platformu",
+      "ham_mesaj": "acil konser bilet satış platformu"
     },
     {
       "id": 200010,
@@ -5789,8 +5783,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "çözümü",
-      "ham_mesaj": "acil konser bilet satış çözümü",
-      "normalize_mesaj": "acil konser bilet satış çözümü"
+      "normalize_mesaj": "acil konser bilet satış çözümü",
+      "ham_mesaj": "acil konser bilet satış çözümü"
     },
     {
       "id": 200011,
@@ -5802,8 +5796,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "entegrasyonu",
-      "ham_mesaj": "acil konser bilet satış entegrasyonu",
-      "normalize_mesaj": "acil konser bilet satış entegrasyonu"
+      "normalize_mesaj": "acil konser bilet satış entegrasyonu",
+      "ham_mesaj": "acil konser bilet satış entegrasyonu"
     },
     {
       "id": 200012,
@@ -5815,8 +5809,8 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "sistemi",
-      "ham_mesaj": "lütfen konser bilet satış sistemi",
-      "normalize_mesaj": "lütfen konser bilet satış sistemi"
+      "normalize_mesaj": "lütfen konser bilet satış sistemi",
+      "ham_mesaj": "lütfen konser bilet satış sistemi"
     },
     {
       "id": 200013,
@@ -5828,8 +5822,8 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "yazılımı",
-      "ham_mesaj": "lütfen konser bilet satış yazılımı",
-      "normalize_mesaj": "lütfen konser bilet satış yazılımı"
+      "normalize_mesaj": "lütfen konser bilet satış yazılımı",
+      "ham_mesaj": "lütfen konser bilet satış yazılımı"
     },
     {
       "id": 200014,
@@ -5841,8 +5835,8 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "altyapısı",
-      "ham_mesaj": "lütfen konser bilet satış altyapısı",
-      "normalize_mesaj": "lütfen konser bilet satış altyapısı"
+      "normalize_mesaj": "lütfen konser bilet satış altyapısı",
+      "ham_mesaj": "lütfen konser bilet satış altyapısı"
     },
     {
       "id": 200015,
@@ -5854,8 +5848,8 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "platformu",
-      "ham_mesaj": "lütfen konser bilet satış platformu",
-      "normalize_mesaj": "lütfen konser bilet satış platformu"
+      "normalize_mesaj": "lütfen konser bilet satış platformu",
+      "ham_mesaj": "lütfen konser bilet satış platformu"
     },
     {
       "id": 200016,
@@ -5867,8 +5861,8 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "çözümü",
-      "ham_mesaj": "lütfen konser bilet satış çözümü",
-      "normalize_mesaj": "lütfen konser bilet satış çözümü"
+      "normalize_mesaj": "lütfen konser bilet satış çözümü",
+      "ham_mesaj": "lütfen konser bilet satış çözümü"
     },
     {
       "id": 200017,
@@ -5880,8 +5874,8 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "entegrasyonu",
-      "ham_mesaj": "lütfen konser bilet satış entegrasyonu",
-      "normalize_mesaj": "lütfen konser bilet satış entegrasyonu"
+      "normalize_mesaj": "lütfen konser bilet satış entegrasyonu",
+      "ham_mesaj": "lütfen konser bilet satış entegrasyonu"
     },
     {
       "id": 200018,
@@ -5893,8 +5887,8 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "sistemi",
-      "ham_mesaj": "şirketimiz için konser bilet satış sistemi",
-      "normalize_mesaj": "şirketimiz için konser bilet satış sistemi"
+      "normalize_mesaj": "şirketimiz için konser bilet satış sistemi",
+      "ham_mesaj": "şirketimiz için konser bilet satış sistemi"
     },
     {
       "id": 200019,
@@ -5906,8 +5900,8 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "yazılımı",
-      "ham_mesaj": "şirketimiz için konser bilet satış yazılımı",
-      "normalize_mesaj": "şirketimiz için konser bilet satış yazılımı"
+      "normalize_mesaj": "şirketimiz için konser bilet satış yazılımı",
+      "ham_mesaj": "şirketimiz için konser bilet satış yazılımı"
     },
     {
       "id": 200020,
@@ -5919,8 +5913,8 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "altyapısı",
-      "ham_mesaj": "şirketimiz için konser bilet satış altyapısı",
-      "normalize_mesaj": "şirketimiz için konser bilet satış altyapısı"
+      "normalize_mesaj": "şirketimiz için konser bilet satış altyapısı",
+      "ham_mesaj": "şirketimiz için konser bilet satış altyapısı"
     },
     {
       "id": 200021,
@@ -5932,8 +5926,8 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "platformu",
-      "ham_mesaj": "şirketimiz için konser bilet satış platformu",
-      "normalize_mesaj": "şirketimiz için konser bilet satış platformu"
+      "normalize_mesaj": "şirketimiz için konser bilet satış platformu",
+      "ham_mesaj": "şirketimiz için konser bilet satış platformu"
     },
     {
       "id": 200022,
@@ -5945,8 +5939,8 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "çözümü",
-      "ham_mesaj": "şirketimiz için konser bilet satış çözümü",
-      "normalize_mesaj": "şirketimiz için konser bilet satış çözümü"
+      "normalize_mesaj": "şirketimiz için konser bilet satış çözümü",
+      "ham_mesaj": "şirketimiz için konser bilet satış çözümü"
     },
     {
       "id": 200023,
@@ -5958,8 +5952,8 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "entegrasyonu",
-      "ham_mesaj": "şirketimiz için konser bilet satış entegrasyonu",
-      "normalize_mesaj": "şirketimiz için konser bilet satış entegrasyonu"
+      "normalize_mesaj": "şirketimiz için konser bilet satış entegrasyonu",
+      "ham_mesaj": "şirketimiz için konser bilet satış entegrasyonu"
     },
     {
       "id": 200024,
@@ -5971,8 +5965,8 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "sistemi",
-      "ham_mesaj": "yeni konser bilet satış sistemi",
-      "normalize_mesaj": "yeni konser bilet satış sistemi"
+      "normalize_mesaj": "yeni konser bilet satış sistemi",
+      "ham_mesaj": "yeni konser bilet satış sistemi"
     },
     {
       "id": 200025,
@@ -5984,8 +5978,8 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "yazılımı",
-      "ham_mesaj": "yeni konser bilet satış yazılımı",
-      "normalize_mesaj": "yeni konser bilet satış yazılımı"
+      "normalize_mesaj": "yeni konser bilet satış yazılımı",
+      "ham_mesaj": "yeni konser bilet satış yazılımı"
     },
     {
       "id": 200026,
@@ -5997,8 +5991,8 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "altyapısı",
-      "ham_mesaj": "yeni konser bilet satış altyapısı",
-      "normalize_mesaj": "yeni konser bilet satış altyapısı"
+      "normalize_mesaj": "yeni konser bilet satış altyapısı",
+      "ham_mesaj": "yeni konser bilet satış altyapısı"
     },
     {
       "id": 200027,
@@ -6010,8 +6004,8 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "platformu",
-      "ham_mesaj": "yeni konser bilet satış platformu",
-      "normalize_mesaj": "yeni konser bilet satış platformu"
+      "normalize_mesaj": "yeni konser bilet satış platformu",
+      "ham_mesaj": "yeni konser bilet satış platformu"
     },
     {
       "id": 200028,
@@ -6023,8 +6017,8 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "çözümü",
-      "ham_mesaj": "yeni konser bilet satış çözümü",
-      "normalize_mesaj": "yeni konser bilet satış çözümü"
+      "normalize_mesaj": "yeni konser bilet satış çözümü",
+      "ham_mesaj": "yeni konser bilet satış çözümü"
     },
     {
       "id": 200029,
@@ -6036,8 +6030,8 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "entegrasyonu",
-      "ham_mesaj": "yeni konser bilet satış entegrasyonu",
-      "normalize_mesaj": "yeni konser bilet satış entegrasyonu"
+      "normalize_mesaj": "yeni konser bilet satış entegrasyonu",
+      "ham_mesaj": "yeni konser bilet satış entegrasyonu"
     },
     {
       "id": 200030,
@@ -6049,8 +6043,8 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "sistemi",
-      "ham_mesaj": "kurumsal konser bilet satış sistemi",
-      "normalize_mesaj": "kurumsal konser bilet satış sistemi"
+      "normalize_mesaj": "kurumsal konser bilet satış sistemi",
+      "ham_mesaj": "kurumsal konser bilet satış sistemi"
     },
     {
       "id": 200031,
@@ -6062,8 +6056,8 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "yazılımı",
-      "ham_mesaj": "kurumsal konser bilet satış yazılımı",
-      "normalize_mesaj": "kurumsal konser bilet satış yazılımı"
+      "normalize_mesaj": "kurumsal konser bilet satış yazılımı",
+      "ham_mesaj": "kurumsal konser bilet satış yazılımı"
     },
     {
       "id": 200032,
@@ -6075,8 +6069,8 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "altyapısı",
-      "ham_mesaj": "kurumsal konser bilet satış altyapısı",
-      "normalize_mesaj": "kurumsal konser bilet satış altyapısı"
+      "normalize_mesaj": "kurumsal konser bilet satış altyapısı",
+      "ham_mesaj": "kurumsal konser bilet satış altyapısı"
     },
     {
       "id": 200033,
@@ -6088,8 +6082,8 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "platformu",
-      "ham_mesaj": "kurumsal konser bilet satış platformu",
-      "normalize_mesaj": "kurumsal konser bilet satış platformu"
+      "normalize_mesaj": "kurumsal konser bilet satış platformu",
+      "ham_mesaj": "kurumsal konser bilet satış platformu"
     },
     {
       "id": 200034,
@@ -6101,8 +6095,8 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "çözümü",
-      "ham_mesaj": "kurumsal konser bilet satış çözümü",
-      "normalize_mesaj": "kurumsal konser bilet satış çözümü"
+      "normalize_mesaj": "kurumsal konser bilet satış çözümü",
+      "ham_mesaj": "kurumsal konser bilet satış çözümü"
     },
     {
       "id": 200035,
@@ -6114,8 +6108,8 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "entegrasyonu",
-      "ham_mesaj": "kurumsal konser bilet satış entegrasyonu",
-      "normalize_mesaj": "kurumsal konser bilet satış entegrasyonu"
+      "normalize_mesaj": "kurumsal konser bilet satış entegrasyonu",
+      "ham_mesaj": "kurumsal konser bilet satış entegrasyonu"
     },
     {
       "id": 200036,
@@ -6127,8 +6121,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "sistemi",
-      "ham_mesaj": "festival geçiş kontrol sistemi",
-      "normalize_mesaj": "festival geçiş kontrol sistemi"
+      "normalize_mesaj": "festival geçiş kontrol sistemi",
+      "ham_mesaj": "festival geçiş kontrol sistemi"
     },
     {
       "id": 200037,
@@ -6140,8 +6134,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "yazılımı",
-      "ham_mesaj": "festival geçiş kontrol yazılımı",
-      "normalize_mesaj": "festival geçiş kontrol yazılımı"
+      "normalize_mesaj": "festival geçiş kontrol yazılımı",
+      "ham_mesaj": "festival geçiş kontrol yazılımı"
     },
     {
       "id": 200038,
@@ -6153,8 +6147,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "altyapısı",
-      "ham_mesaj": "festival geçiş kontrol altyapısı",
-      "normalize_mesaj": "festival geçiş kontrol altyapısı"
+      "normalize_mesaj": "festival geçiş kontrol altyapısı",
+      "ham_mesaj": "festival geçiş kontrol altyapısı"
     },
     {
       "id": 200039,
@@ -6166,8 +6160,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "platformu",
-      "ham_mesaj": "festival geçiş kontrol platformu",
-      "normalize_mesaj": "festival geçiş kontrol platformu"
+      "normalize_mesaj": "festival geçiş kontrol platformu",
+      "ham_mesaj": "festival geçiş kontrol platformu"
     },
     {
       "id": 200040,
@@ -6179,8 +6173,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "çözümü",
-      "ham_mesaj": "festival geçiş kontrol çözümü",
-      "normalize_mesaj": "festival geçiş kontrol çözümü"
+      "normalize_mesaj": "festival geçiş kontrol çözümü",
+      "ham_mesaj": "festival geçiş kontrol çözümü"
     },
     {
       "id": 200041,
@@ -6192,8 +6186,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "entegrasyonu",
-      "ham_mesaj": "festival geçiş kontrol entegrasyonu",
-      "normalize_mesaj": "festival geçiş kontrol entegrasyonu"
+      "normalize_mesaj": "festival geçiş kontrol entegrasyonu",
+      "ham_mesaj": "festival geçiş kontrol entegrasyonu"
     },
     {
       "id": 200042,
@@ -6205,8 +6199,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "sistemi",
-      "ham_mesaj": "acil festival geçiş kontrol sistemi",
-      "normalize_mesaj": "acil festival geçiş kontrol sistemi"
+      "normalize_mesaj": "acil festival geçiş kontrol sistemi",
+      "ham_mesaj": "acil festival geçiş kontrol sistemi"
     },
     {
       "id": 200043,
@@ -6218,8 +6212,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "yazılımı",
-      "ham_mesaj": "acil festival geçiş kontrol yazılımı",
-      "normalize_mesaj": "acil festival geçiş kontrol yazılımı"
+      "normalize_mesaj": "acil festival geçiş kontrol yazılımı",
+      "ham_mesaj": "acil festival geçiş kontrol yazılımı"
     },
     {
       "id": 200044,
@@ -6231,8 +6225,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "altyapısı",
-      "ham_mesaj": "acil festival geçiş kontrol altyapısı",
-      "normalize_mesaj": "acil festival geçiş kontrol altyapısı"
+      "normalize_mesaj": "acil festival geçiş kontrol altyapısı",
+      "ham_mesaj": "acil festival geçiş kontrol altyapısı"
     },
     {
       "id": 200045,
@@ -6244,8 +6238,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "platformu",
-      "ham_mesaj": "acil festival geçiş kontrol platformu",
-      "normalize_mesaj": "acil festival geçiş kontrol platformu"
+      "normalize_mesaj": "acil festival geçiş kontrol platformu",
+      "ham_mesaj": "acil festival geçiş kontrol platformu"
     },
     {
       "id": 200046,
@@ -6257,8 +6251,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "çözümü",
-      "ham_mesaj": "acil festival geçiş kontrol çözümü",
-      "normalize_mesaj": "acil festival geçiş kontrol çözümü"
+      "normalize_mesaj": "acil festival geçiş kontrol çözümü",
+      "ham_mesaj": "acil festival geçiş kontrol çözümü"
     },
     {
       "id": 200047,
@@ -6270,8 +6264,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "entegrasyonu",
-      "ham_mesaj": "acil festival geçiş kontrol entegrasyonu",
-      "normalize_mesaj": "acil festival geçiş kontrol entegrasyonu"
+      "normalize_mesaj": "acil festival geçiş kontrol entegrasyonu",
+      "ham_mesaj": "acil festival geçiş kontrol entegrasyonu"
     },
     {
       "id": 200048,
@@ -6283,8 +6277,8 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "sistemi",
-      "ham_mesaj": "lütfen festival geçiş kontrol sistemi",
-      "normalize_mesaj": "lütfen festival geçiş kontrol sistemi"
+      "normalize_mesaj": "lütfen festival geçiş kontrol sistemi",
+      "ham_mesaj": "lütfen festival geçiş kontrol sistemi"
     },
     {
       "id": 200049,
@@ -6296,8 +6290,8 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "yazılımı",
-      "ham_mesaj": "lütfen festival geçiş kontrol yazılımı",
-      "normalize_mesaj": "lütfen festival geçiş kontrol yazılımı"
+      "normalize_mesaj": "lütfen festival geçiş kontrol yazılımı",
+      "ham_mesaj": "lütfen festival geçiş kontrol yazılımı"
     },
     {
       "id": 200050,
@@ -6309,8 +6303,8 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "altyapısı",
-      "ham_mesaj": "lütfen festival geçiş kontrol altyapısı",
-      "normalize_mesaj": "lütfen festival geçiş kontrol altyapısı"
+      "normalize_mesaj": "lütfen festival geçiş kontrol altyapısı",
+      "ham_mesaj": "lütfen festival geçiş kontrol altyapısı"
     },
     {
       "id": 200051,
@@ -6322,8 +6316,8 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "platformu",
-      "ham_mesaj": "lütfen festival geçiş kontrol platformu",
-      "normalize_mesaj": "lütfen festival geçiş kontrol platformu"
+      "normalize_mesaj": "lütfen festival geçiş kontrol platformu",
+      "ham_mesaj": "lütfen festival geçiş kontrol platformu"
     },
     {
       "id": 200052,
@@ -6335,8 +6329,8 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "çözümü",
-      "ham_mesaj": "lütfen festival geçiş kontrol çözümü",
-      "normalize_mesaj": "lütfen festival geçiş kontrol çözümü"
+      "normalize_mesaj": "lütfen festival geçiş kontrol çözümü",
+      "ham_mesaj": "lütfen festival geçiş kontrol çözümü"
     },
     {
       "id": 200053,
@@ -6348,8 +6342,8 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "entegrasyonu",
-      "ham_mesaj": "lütfen festival geçiş kontrol entegrasyonu",
-      "normalize_mesaj": "lütfen festival geçiş kontrol entegrasyonu"
+      "normalize_mesaj": "lütfen festival geçiş kontrol entegrasyonu",
+      "ham_mesaj": "lütfen festival geçiş kontrol entegrasyonu"
     },
     {
       "id": 200054,
@@ -6361,8 +6355,8 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "sistemi",
-      "ham_mesaj": "şirketimiz için festival geçiş kontrol sistemi",
-      "normalize_mesaj": "şirketimiz için festival geçiş kontrol sistemi"
+      "normalize_mesaj": "şirketimiz için festival geçiş kontrol sistemi",
+      "ham_mesaj": "şirketimiz için festival geçiş kontrol sistemi"
     },
     {
       "id": 200055,
@@ -6374,8 +6368,8 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "yazılımı",
-      "ham_mesaj": "şirketimiz için festival geçiş kontrol yazılımı",
-      "normalize_mesaj": "şirketimiz için festival geçiş kontrol yazılımı"
+      "normalize_mesaj": "şirketimiz için festival geçiş kontrol yazılımı",
+      "ham_mesaj": "şirketimiz için festival geçiş kontrol yazılımı"
     },
     {
       "id": 200056,
@@ -6387,8 +6381,8 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "altyapısı",
-      "ham_mesaj": "şirketimiz için festival geçiş kontrol altyapısı",
-      "normalize_mesaj": "şirketimiz için festival geçiş kontrol altyapısı"
+      "normalize_mesaj": "şirketimiz için festival geçiş kontrol altyapısı",
+      "ham_mesaj": "şirketimiz için festival geçiş kontrol altyapısı"
     },
     {
       "id": 200057,
@@ -6400,8 +6394,8 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "platformu",
-      "ham_mesaj": "şirketimiz için festival geçiş kontrol platformu",
-      "normalize_mesaj": "şirketimiz için festival geçiş kontrol platformu"
+      "normalize_mesaj": "şirketimiz için festival geçiş kontrol platformu",
+      "ham_mesaj": "şirketimiz için festival geçiş kontrol platformu"
     },
     {
       "id": 200058,
@@ -6413,8 +6407,8 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "çözümü",
-      "ham_mesaj": "şirketimiz için festival geçiş kontrol çözümü",
-      "normalize_mesaj": "şirketimiz için festival geçiş kontrol çözümü"
+      "normalize_mesaj": "şirketimiz için festival geçiş kontrol çözümü",
+      "ham_mesaj": "şirketimiz için festival geçiş kontrol çözümü"
     },
     {
       "id": 200059,
@@ -6426,8 +6420,8 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "entegrasyonu",
-      "ham_mesaj": "şirketimiz için festival geçiş kontrol entegrasyonu",
-      "normalize_mesaj": "şirketimiz için festival geçiş kontrol entegrasyonu"
+      "normalize_mesaj": "şirketimiz için festival geçiş kontrol entegrasyonu",
+      "ham_mesaj": "şirketimiz için festival geçiş kontrol entegrasyonu"
     },
     {
       "id": 200060,
@@ -6439,8 +6433,8 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "sistemi",
-      "ham_mesaj": "yeni festival geçiş kontrol sistemi",
-      "normalize_mesaj": "yeni festival geçiş kontrol sistemi"
+      "normalize_mesaj": "yeni festival geçiş kontrol sistemi",
+      "ham_mesaj": "yeni festival geçiş kontrol sistemi"
     },
     {
       "id": 200061,
@@ -6452,8 +6446,8 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "yazılımı",
-      "ham_mesaj": "yeni festival geçiş kontrol yazılımı",
-      "normalize_mesaj": "yeni festival geçiş kontrol yazılımı"
+      "normalize_mesaj": "yeni festival geçiş kontrol yazılımı",
+      "ham_mesaj": "yeni festival geçiş kontrol yazılımı"
     },
     {
       "id": 200062,
@@ -6465,8 +6459,8 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "altyapısı",
-      "ham_mesaj": "yeni festival geçiş kontrol altyapısı",
-      "normalize_mesaj": "yeni festival geçiş kontrol altyapısı"
+      "normalize_mesaj": "yeni festival geçiş kontrol altyapısı",
+      "ham_mesaj": "yeni festival geçiş kontrol altyapısı"
     },
     {
       "id": 200063,
@@ -6478,8 +6472,8 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "platformu",
-      "ham_mesaj": "yeni festival geçiş kontrol platformu",
-      "normalize_mesaj": "yeni festival geçiş kontrol platformu"
+      "normalize_mesaj": "yeni festival geçiş kontrol platformu",
+      "ham_mesaj": "yeni festival geçiş kontrol platformu"
     },
     {
       "id": 200064,
@@ -6491,8 +6485,8 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "çözümü",
-      "ham_mesaj": "yeni festival geçiş kontrol çözümü",
-      "normalize_mesaj": "yeni festival geçiş kontrol çözümü"
+      "normalize_mesaj": "yeni festival geçiş kontrol çözümü",
+      "ham_mesaj": "yeni festival geçiş kontrol çözümü"
     },
     {
       "id": 200065,
@@ -6504,8 +6498,8 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "entegrasyonu",
-      "ham_mesaj": "yeni festival geçiş kontrol entegrasyonu",
-      "normalize_mesaj": "yeni festival geçiş kontrol entegrasyonu"
+      "normalize_mesaj": "yeni festival geçiş kontrol entegrasyonu",
+      "ham_mesaj": "yeni festival geçiş kontrol entegrasyonu"
     },
     {
       "id": 200066,
@@ -6517,8 +6511,8 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "sistemi",
-      "ham_mesaj": "kurumsal festival geçiş kontrol sistemi",
-      "normalize_mesaj": "kurumsal festival geçiş kontrol sistemi"
+      "normalize_mesaj": "kurumsal festival geçiş kontrol sistemi",
+      "ham_mesaj": "kurumsal festival geçiş kontrol sistemi"
     },
     {
       "id": 200067,
@@ -6530,8 +6524,8 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "yazılımı",
-      "ham_mesaj": "kurumsal festival geçiş kontrol yazılımı",
-      "normalize_mesaj": "kurumsal festival geçiş kontrol yazılımı"
+      "normalize_mesaj": "kurumsal festival geçiş kontrol yazılımı",
+      "ham_mesaj": "kurumsal festival geçiş kontrol yazılımı"
     },
     {
       "id": 200068,
@@ -6543,8 +6537,8 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "altyapısı",
-      "ham_mesaj": "kurumsal festival geçiş kontrol altyapısı",
-      "normalize_mesaj": "kurumsal festival geçiş kontrol altyapısı"
+      "normalize_mesaj": "kurumsal festival geçiş kontrol altyapısı",
+      "ham_mesaj": "kurumsal festival geçiş kontrol altyapısı"
     },
     {
       "id": 200069,
@@ -6556,8 +6550,8 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "platformu",
-      "ham_mesaj": "kurumsal festival geçiş kontrol platformu",
-      "normalize_mesaj": "kurumsal festival geçiş kontrol platformu"
+      "normalize_mesaj": "kurumsal festival geçiş kontrol platformu",
+      "ham_mesaj": "kurumsal festival geçiş kontrol platformu"
     },
     {
       "id": 200070,
@@ -6569,8 +6563,8 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "çözümü",
-      "ham_mesaj": "kurumsal festival geçiş kontrol çözümü",
-      "normalize_mesaj": "kurumsal festival geçiş kontrol çözümü"
+      "normalize_mesaj": "kurumsal festival geçiş kontrol çözümü",
+      "ham_mesaj": "kurumsal festival geçiş kontrol çözümü"
     },
     {
       "id": 200071,
@@ -6582,8 +6576,8 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "entegrasyonu",
-      "ham_mesaj": "kurumsal festival geçiş kontrol entegrasyonu",
-      "normalize_mesaj": "kurumsal festival geçiş kontrol entegrasyonu"
+      "normalize_mesaj": "kurumsal festival geçiş kontrol entegrasyonu",
+      "ham_mesaj": "kurumsal festival geçiş kontrol entegrasyonu"
     },
     {
       "id": 200072,
@@ -6595,8 +6589,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "sistemi",
-      "ham_mesaj": "etkinlik biletleme sistemi",
-      "normalize_mesaj": "etkinlik biletleme sistemi"
+      "normalize_mesaj": "etkinlik biletleme sistemi",
+      "ham_mesaj": "etkinlik biletleme sistemi"
     },
     {
       "id": 200073,
@@ -6608,8 +6602,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "yazılımı",
-      "ham_mesaj": "etkinlik biletleme yazılımı",
-      "normalize_mesaj": "etkinlik biletleme yazılımı"
+      "normalize_mesaj": "etkinlik biletleme yazılımı",
+      "ham_mesaj": "etkinlik biletleme yazılımı"
     },
     {
       "id": 200074,
@@ -6621,8 +6615,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "altyapısı",
-      "ham_mesaj": "etkinlik biletleme altyapısı",
-      "normalize_mesaj": "etkinlik biletleme altyapısı"
+      "normalize_mesaj": "etkinlik biletleme altyapısı",
+      "ham_mesaj": "etkinlik biletleme altyapısı"
     },
     {
       "id": 200075,
@@ -6634,8 +6628,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "platformu",
-      "ham_mesaj": "etkinlik biletleme platformu",
-      "normalize_mesaj": "etkinlik biletleme platformu"
+      "normalize_mesaj": "etkinlik biletleme platformu",
+      "ham_mesaj": "etkinlik biletleme platformu"
     },
     {
       "id": 200076,
@@ -6647,8 +6641,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "çözümü",
-      "ham_mesaj": "etkinlik biletleme çözümü",
-      "normalize_mesaj": "etkinlik biletleme çözümü"
+      "normalize_mesaj": "etkinlik biletleme çözümü",
+      "ham_mesaj": "etkinlik biletleme çözümü"
     },
     {
       "id": 200077,
@@ -6660,8 +6654,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "entegrasyonu",
-      "ham_mesaj": "etkinlik biletleme entegrasyonu",
-      "normalize_mesaj": "etkinlik biletleme entegrasyonu"
+      "normalize_mesaj": "etkinlik biletleme entegrasyonu",
+      "ham_mesaj": "etkinlik biletleme entegrasyonu"
     },
     {
       "id": 200078,
@@ -6673,8 +6667,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "sistemi",
-      "ham_mesaj": "acil etkinlik biletleme sistemi",
-      "normalize_mesaj": "acil etkinlik biletleme sistemi"
+      "normalize_mesaj": "acil etkinlik biletleme sistemi",
+      "ham_mesaj": "acil etkinlik biletleme sistemi"
     },
     {
       "id": 200079,
@@ -6686,8 +6680,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "yazılımı",
-      "ham_mesaj": "acil etkinlik biletleme yazılımı",
-      "normalize_mesaj": "acil etkinlik biletleme yazılımı"
+      "normalize_mesaj": "acil etkinlik biletleme yazılımı",
+      "ham_mesaj": "acil etkinlik biletleme yazılımı"
     },
     {
       "id": 200080,
@@ -6699,8 +6693,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "altyapısı",
-      "ham_mesaj": "acil etkinlik biletleme altyapısı",
-      "normalize_mesaj": "acil etkinlik biletleme altyapısı"
+      "normalize_mesaj": "acil etkinlik biletleme altyapısı",
+      "ham_mesaj": "acil etkinlik biletleme altyapısı"
     },
     {
       "id": 200081,
@@ -6712,8 +6706,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "platformu",
-      "ham_mesaj": "acil etkinlik biletleme platformu",
-      "normalize_mesaj": "acil etkinlik biletleme platformu"
+      "normalize_mesaj": "acil etkinlik biletleme platformu",
+      "ham_mesaj": "acil etkinlik biletleme platformu"
     },
     {
       "id": 200082,
@@ -6725,8 +6719,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "çözümü",
-      "ham_mesaj": "acil etkinlik biletleme çözümü",
-      "normalize_mesaj": "acil etkinlik biletleme çözümü"
+      "normalize_mesaj": "acil etkinlik biletleme çözümü",
+      "ham_mesaj": "acil etkinlik biletleme çözümü"
     },
     {
       "id": 200083,
@@ -6738,8 +6732,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "entegrasyonu",
-      "ham_mesaj": "acil etkinlik biletleme entegrasyonu",
-      "normalize_mesaj": "acil etkinlik biletleme entegrasyonu"
+      "normalize_mesaj": "acil etkinlik biletleme entegrasyonu",
+      "ham_mesaj": "acil etkinlik biletleme entegrasyonu"
     },
     {
       "id": 200084,
@@ -6751,8 +6745,8 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "sistemi",
-      "ham_mesaj": "lütfen etkinlik biletleme sistemi",
-      "normalize_mesaj": "lütfen etkinlik biletleme sistemi"
+      "normalize_mesaj": "lütfen etkinlik biletleme sistemi",
+      "ham_mesaj": "lütfen etkinlik biletleme sistemi"
     },
     {
       "id": 200085,
@@ -6764,8 +6758,8 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "yazılımı",
-      "ham_mesaj": "lütfen etkinlik biletleme yazılımı",
-      "normalize_mesaj": "lütfen etkinlik biletleme yazılımı"
+      "normalize_mesaj": "lütfen etkinlik biletleme yazılımı",
+      "ham_mesaj": "lütfen etkinlik biletleme yazılımı"
     },
     {
       "id": 200086,
@@ -6777,8 +6771,8 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "altyapısı",
-      "ham_mesaj": "lütfen etkinlik biletleme altyapısı",
-      "normalize_mesaj": "lütfen etkinlik biletleme altyapısı"
+      "normalize_mesaj": "lütfen etkinlik biletleme altyapısı",
+      "ham_mesaj": "lütfen etkinlik biletleme altyapısı"
     },
     {
       "id": 200087,
@@ -6790,8 +6784,8 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "platformu",
-      "ham_mesaj": "lütfen etkinlik biletleme platformu",
-      "normalize_mesaj": "lütfen etkinlik biletleme platformu"
+      "normalize_mesaj": "lütfen etkinlik biletleme platformu",
+      "ham_mesaj": "lütfen etkinlik biletleme platformu"
     },
     {
       "id": 200088,
@@ -6803,8 +6797,8 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "çözümü",
-      "ham_mesaj": "lütfen etkinlik biletleme çözümü",
-      "normalize_mesaj": "lütfen etkinlik biletleme çözümü"
+      "normalize_mesaj": "lütfen etkinlik biletleme çözümü",
+      "ham_mesaj": "lütfen etkinlik biletleme çözümü"
     },
     {
       "id": 200089,
@@ -6816,8 +6810,8 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "entegrasyonu",
-      "ham_mesaj": "lütfen etkinlik biletleme entegrasyonu",
-      "normalize_mesaj": "lütfen etkinlik biletleme entegrasyonu"
+      "normalize_mesaj": "lütfen etkinlik biletleme entegrasyonu",
+      "ham_mesaj": "lütfen etkinlik biletleme entegrasyonu"
     },
     {
       "id": 200090,
@@ -6829,8 +6823,8 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "sistemi",
-      "ham_mesaj": "şirketimiz için etkinlik biletleme sistemi",
-      "normalize_mesaj": "şirketimiz için etkinlik biletleme sistemi"
+      "normalize_mesaj": "şirketimiz için etkinlik biletleme sistemi",
+      "ham_mesaj": "şirketimiz için etkinlik biletleme sistemi"
     },
     {
       "id": 200091,
@@ -6842,8 +6836,8 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "yazılımı",
-      "ham_mesaj": "şirketimiz için etkinlik biletleme yazılımı",
-      "normalize_mesaj": "şirketimiz için etkinlik biletleme yazılımı"
+      "normalize_mesaj": "şirketimiz için etkinlik biletleme yazılımı",
+      "ham_mesaj": "şirketimiz için etkinlik biletleme yazılımı"
     },
     {
       "id": 200092,
@@ -6855,8 +6849,8 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "altyapısı",
-      "ham_mesaj": "şirketimiz için etkinlik biletleme altyapısı",
-      "normalize_mesaj": "şirketimiz için etkinlik biletleme altyapısı"
+      "normalize_mesaj": "şirketimiz için etkinlik biletleme altyapısı",
+      "ham_mesaj": "şirketimiz için etkinlik biletleme altyapısı"
     },
     {
       "id": 200093,
@@ -6868,8 +6862,8 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "platformu",
-      "ham_mesaj": "şirketimiz için etkinlik biletleme platformu",
-      "normalize_mesaj": "şirketimiz için etkinlik biletleme platformu"
+      "normalize_mesaj": "şirketimiz için etkinlik biletleme platformu",
+      "ham_mesaj": "şirketimiz için etkinlik biletleme platformu"
     },
     {
       "id": 200094,
@@ -6881,8 +6875,8 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "çözümü",
-      "ham_mesaj": "şirketimiz için etkinlik biletleme çözümü",
-      "normalize_mesaj": "şirketimiz için etkinlik biletleme çözümü"
+      "normalize_mesaj": "şirketimiz için etkinlik biletleme çözümü",
+      "ham_mesaj": "şirketimiz için etkinlik biletleme çözümü"
     },
     {
       "id": 200095,
@@ -6894,8 +6888,8 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "entegrasyonu",
-      "ham_mesaj": "şirketimiz için etkinlik biletleme entegrasyonu",
-      "normalize_mesaj": "şirketimiz için etkinlik biletleme entegrasyonu"
+      "normalize_mesaj": "şirketimiz için etkinlik biletleme entegrasyonu",
+      "ham_mesaj": "şirketimiz için etkinlik biletleme entegrasyonu"
     },
     {
       "id": 200096,
@@ -6907,8 +6901,8 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "sistemi",
-      "ham_mesaj": "yeni etkinlik biletleme sistemi",
-      "normalize_mesaj": "yeni etkinlik biletleme sistemi"
+      "normalize_mesaj": "yeni etkinlik biletleme sistemi",
+      "ham_mesaj": "yeni etkinlik biletleme sistemi"
     },
     {
       "id": 200097,
@@ -6920,8 +6914,8 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "yazılımı",
-      "ham_mesaj": "yeni etkinlik biletleme yazılımı",
-      "normalize_mesaj": "yeni etkinlik biletleme yazılımı"
+      "normalize_mesaj": "yeni etkinlik biletleme yazılımı",
+      "ham_mesaj": "yeni etkinlik biletleme yazılımı"
     },
     {
       "id": 200098,
@@ -6933,8 +6927,8 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "altyapısı",
-      "ham_mesaj": "yeni etkinlik biletleme altyapısı",
-      "normalize_mesaj": "yeni etkinlik biletleme altyapısı"
+      "normalize_mesaj": "yeni etkinlik biletleme altyapısı",
+      "ham_mesaj": "yeni etkinlik biletleme altyapısı"
     },
     {
       "id": 200099,
@@ -6946,8 +6940,8 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "platformu",
-      "ham_mesaj": "yeni etkinlik biletleme platformu",
-      "normalize_mesaj": "yeni etkinlik biletleme platformu"
+      "normalize_mesaj": "yeni etkinlik biletleme platformu",
+      "ham_mesaj": "yeni etkinlik biletleme platformu"
     },
     {
       "id": 200100,
@@ -6959,8 +6953,8 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "çözümü",
-      "ham_mesaj": "yeni etkinlik biletleme çözümü",
-      "normalize_mesaj": "yeni etkinlik biletleme çözümü"
+      "normalize_mesaj": "yeni etkinlik biletleme çözümü",
+      "ham_mesaj": "yeni etkinlik biletleme çözümü"
     },
     {
       "id": 200101,
@@ -6972,8 +6966,8 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "entegrasyonu",
-      "ham_mesaj": "yeni etkinlik biletleme entegrasyonu",
-      "normalize_mesaj": "yeni etkinlik biletleme entegrasyonu"
+      "normalize_mesaj": "yeni etkinlik biletleme entegrasyonu",
+      "ham_mesaj": "yeni etkinlik biletleme entegrasyonu"
     },
     {
       "id": 200102,
@@ -6985,8 +6979,8 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "sistemi",
-      "ham_mesaj": "kurumsal etkinlik biletleme sistemi",
-      "normalize_mesaj": "kurumsal etkinlik biletleme sistemi"
+      "normalize_mesaj": "kurumsal etkinlik biletleme sistemi",
+      "ham_mesaj": "kurumsal etkinlik biletleme sistemi"
     },
     {
       "id": 200103,
@@ -6998,8 +6992,8 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "yazılımı",
-      "ham_mesaj": "kurumsal etkinlik biletleme yazılımı",
-      "normalize_mesaj": "kurumsal etkinlik biletleme yazılımı"
+      "normalize_mesaj": "kurumsal etkinlik biletleme yazılımı",
+      "ham_mesaj": "kurumsal etkinlik biletleme yazılımı"
     },
     {
       "id": 200104,
@@ -7011,8 +7005,8 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "altyapısı",
-      "ham_mesaj": "kurumsal etkinlik biletleme altyapısı",
-      "normalize_mesaj": "kurumsal etkinlik biletleme altyapısı"
+      "normalize_mesaj": "kurumsal etkinlik biletleme altyapısı",
+      "ham_mesaj": "kurumsal etkinlik biletleme altyapısı"
     },
     {
       "id": 200105,
@@ -7024,8 +7018,8 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "platformu",
-      "ham_mesaj": "kurumsal etkinlik biletleme platformu",
-      "normalize_mesaj": "kurumsal etkinlik biletleme platformu"
+      "normalize_mesaj": "kurumsal etkinlik biletleme platformu",
+      "ham_mesaj": "kurumsal etkinlik biletleme platformu"
     },
     {
       "id": 200106,
@@ -7037,8 +7031,8 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "çözümü",
-      "ham_mesaj": "kurumsal etkinlik biletleme çözümü",
-      "normalize_mesaj": "kurumsal etkinlik biletleme çözümü"
+      "normalize_mesaj": "kurumsal etkinlik biletleme çözümü",
+      "ham_mesaj": "kurumsal etkinlik biletleme çözümü"
     },
     {
       "id": 200107,
@@ -7050,8 +7044,8 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "entegrasyonu",
-      "ham_mesaj": "kurumsal etkinlik biletleme entegrasyonu",
-      "normalize_mesaj": "kurumsal etkinlik biletleme entegrasyonu"
+      "normalize_mesaj": "kurumsal etkinlik biletleme entegrasyonu",
+      "ham_mesaj": "kurumsal etkinlik biletleme entegrasyonu"
     },
     {
       "id": 200108,
@@ -7063,8 +7057,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "sistemi",
-      "ham_mesaj": "tiyatro koltuk rezervasyon sistemi",
-      "normalize_mesaj": "tiyatro koltuk rezervasyon sistemi"
+      "normalize_mesaj": "tiyatro koltuk rezervasyon sistemi",
+      "ham_mesaj": "tiyatro koltuk rezervasyon sistemi"
     },
     {
       "id": 200109,
@@ -7076,8 +7070,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "yazılımı",
-      "ham_mesaj": "tiyatro koltuk rezervasyon yazılımı",
-      "normalize_mesaj": "tiyatro koltuk rezervasyon yazılımı"
+      "normalize_mesaj": "tiyatro koltuk rezervasyon yazılımı",
+      "ham_mesaj": "tiyatro koltuk rezervasyon yazılımı"
     },
     {
       "id": 200110,
@@ -7089,8 +7083,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "altyapısı",
-      "ham_mesaj": "tiyatro koltuk rezervasyon altyapısı",
-      "normalize_mesaj": "tiyatro koltuk rezervasyon altyapısı"
+      "normalize_mesaj": "tiyatro koltuk rezervasyon altyapısı",
+      "ham_mesaj": "tiyatro koltuk rezervasyon altyapısı"
     },
     {
       "id": 200111,
@@ -7102,8 +7096,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "platformu",
-      "ham_mesaj": "tiyatro koltuk rezervasyon platformu",
-      "normalize_mesaj": "tiyatro koltuk rezervasyon platformu"
+      "normalize_mesaj": "tiyatro koltuk rezervasyon platformu",
+      "ham_mesaj": "tiyatro koltuk rezervasyon platformu"
     },
     {
       "id": 200112,
@@ -7115,8 +7109,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "çözümü",
-      "ham_mesaj": "tiyatro koltuk rezervasyon çözümü",
-      "normalize_mesaj": "tiyatro koltuk rezervasyon çözümü"
+      "normalize_mesaj": "tiyatro koltuk rezervasyon çözümü",
+      "ham_mesaj": "tiyatro koltuk rezervasyon çözümü"
     },
     {
       "id": 200113,
@@ -7128,8 +7122,8 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "entegrasyonu",
-      "ham_mesaj": "tiyatro koltuk rezervasyon entegrasyonu",
-      "normalize_mesaj": "tiyatro koltuk rezervasyon entegrasyonu"
+      "normalize_mesaj": "tiyatro koltuk rezervasyon entegrasyonu",
+      "ham_mesaj": "tiyatro koltuk rezervasyon entegrasyonu"
     },
     {
       "id": 200114,
@@ -7141,8 +7135,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "sistemi",
-      "ham_mesaj": "acil tiyatro koltuk rezervasyon sistemi",
-      "normalize_mesaj": "acil tiyatro koltuk rezervasyon sistemi"
+      "normalize_mesaj": "acil tiyatro koltuk rezervasyon sistemi",
+      "ham_mesaj": "acil tiyatro koltuk rezervasyon sistemi"
     },
     {
       "id": 200115,
@@ -7154,8 +7148,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "yazılımı",
-      "ham_mesaj": "acil tiyatro koltuk rezervasyon yazılımı",
-      "normalize_mesaj": "acil tiyatro koltuk rezervasyon yazılımı"
+      "normalize_mesaj": "acil tiyatro koltuk rezervasyon yazılımı",
+      "ham_mesaj": "acil tiyatro koltuk rezervasyon yazılımı"
     },
     {
       "id": 200116,
@@ -7167,8 +7161,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "altyapısı",
-      "ham_mesaj": "acil tiyatro koltuk rezervasyon altyapısı",
-      "normalize_mesaj": "acil tiyatro koltuk rezervasyon altyapısı"
+      "normalize_mesaj": "acil tiyatro koltuk rezervasyon altyapısı",
+      "ham_mesaj": "acil tiyatro koltuk rezervasyon altyapısı"
     },
     {
       "id": 200117,
@@ -7180,8 +7174,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "platformu",
-      "ham_mesaj": "acil tiyatro koltuk rezervasyon platformu",
-      "normalize_mesaj": "acil tiyatro koltuk rezervasyon platformu"
+      "normalize_mesaj": "acil tiyatro koltuk rezervasyon platformu",
+      "ham_mesaj": "acil tiyatro koltuk rezervasyon platformu"
     },
     {
       "id": 200118,
@@ -7193,8 +7187,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "çözümü",
-      "ham_mesaj": "acil tiyatro koltuk rezervasyon çözümü",
-      "normalize_mesaj": "acil tiyatro koltuk rezervasyon çözümü"
+      "normalize_mesaj": "acil tiyatro koltuk rezervasyon çözümü",
+      "ham_mesaj": "acil tiyatro koltuk rezervasyon çözümü"
     },
     {
       "id": 200119,
@@ -7206,8 +7200,8 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "entegrasyonu",
-      "ham_mesaj": "acil tiyatro koltuk rezervasyon entegrasyonu",
-      "normalize_mesaj": "acil tiyatro koltuk rezervasyon entegrasyonu"
+      "normalize_mesaj": "acil tiyatro koltuk rezervasyon entegrasyonu",
+      "ham_mesaj": "acil tiyatro koltuk rezervasyon entegrasyonu"
     },
     {
       "id": 300000,
@@ -7219,8 +7213,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "sistemi",
+      "normalize_mesaj": "devops otomasyon sistemi",
       "ham_mesaj": "DevOps otomasyon sistemi",
-      "normalize_mesaj": "devops otomasyon sistemi"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300001,
@@ -7232,8 +7227,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "yazılımı",
+      "normalize_mesaj": "devops otomasyon yazılımı",
       "ham_mesaj": "DevOps otomasyon yazılımı",
-      "normalize_mesaj": "devops otomasyon yazılımı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300002,
@@ -7245,8 +7241,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "altyapısı",
+      "normalize_mesaj": "devops otomasyon altyapısı",
       "ham_mesaj": "DevOps otomasyon altyapısı",
-      "normalize_mesaj": "devops otomasyon altyapısı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300003,
@@ -7258,8 +7255,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "platformu",
+      "normalize_mesaj": "devops otomasyon platformu",
       "ham_mesaj": "DevOps otomasyon platformu",
-      "normalize_mesaj": "devops otomasyon platformu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300004,
@@ -7271,8 +7269,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "çözümü",
+      "normalize_mesaj": "devops otomasyon çözümü",
       "ham_mesaj": "DevOps otomasyon çözümü",
-      "normalize_mesaj": "devops otomasyon çözümü"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300005,
@@ -7284,8 +7283,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "entegrasyonu",
+      "normalize_mesaj": "devops otomasyon entegrasyonu",
       "ham_mesaj": "DevOps otomasyon entegrasyonu",
-      "normalize_mesaj": "devops otomasyon entegrasyonu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300006,
@@ -7297,8 +7297,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "sistemi",
+      "normalize_mesaj": "acil devops otomasyon sistemi",
       "ham_mesaj": "acil DevOps otomasyon sistemi",
-      "normalize_mesaj": "acil devops otomasyon sistemi"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300007,
@@ -7310,8 +7311,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "yazılımı",
+      "normalize_mesaj": "acil devops otomasyon yazılımı",
       "ham_mesaj": "acil DevOps otomasyon yazılımı",
-      "normalize_mesaj": "acil devops otomasyon yazılımı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300008,
@@ -7323,8 +7325,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "altyapısı",
+      "normalize_mesaj": "acil devops otomasyon altyapısı",
       "ham_mesaj": "acil DevOps otomasyon altyapısı",
-      "normalize_mesaj": "acil devops otomasyon altyapısı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300009,
@@ -7336,8 +7339,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "platformu",
+      "normalize_mesaj": "acil devops otomasyon platformu",
       "ham_mesaj": "acil DevOps otomasyon platformu",
-      "normalize_mesaj": "acil devops otomasyon platformu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300010,
@@ -7349,8 +7353,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "çözümü",
+      "normalize_mesaj": "acil devops otomasyon çözümü",
       "ham_mesaj": "acil DevOps otomasyon çözümü",
-      "normalize_mesaj": "acil devops otomasyon çözümü"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300011,
@@ -7362,8 +7367,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "entegrasyonu",
+      "normalize_mesaj": "acil devops otomasyon entegrasyonu",
       "ham_mesaj": "acil DevOps otomasyon entegrasyonu",
-      "normalize_mesaj": "acil devops otomasyon entegrasyonu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300012,
@@ -7375,8 +7381,9 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "sistemi",
+      "normalize_mesaj": "lütfen devops otomasyon sistemi",
       "ham_mesaj": "lütfen DevOps otomasyon sistemi",
-      "normalize_mesaj": "lütfen devops otomasyon sistemi"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300013,
@@ -7388,8 +7395,9 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "yazılımı",
+      "normalize_mesaj": "lütfen devops otomasyon yazılımı",
       "ham_mesaj": "lütfen DevOps otomasyon yazılımı",
-      "normalize_mesaj": "lütfen devops otomasyon yazılımı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300014,
@@ -7401,8 +7409,9 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "altyapısı",
+      "normalize_mesaj": "lütfen devops otomasyon altyapısı",
       "ham_mesaj": "lütfen DevOps otomasyon altyapısı",
-      "normalize_mesaj": "lütfen devops otomasyon altyapısı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300015,
@@ -7414,8 +7423,9 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "platformu",
+      "normalize_mesaj": "lütfen devops otomasyon platformu",
       "ham_mesaj": "lütfen DevOps otomasyon platformu",
-      "normalize_mesaj": "lütfen devops otomasyon platformu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300016,
@@ -7427,8 +7437,9 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "çözümü",
+      "normalize_mesaj": "lütfen devops otomasyon çözümü",
       "ham_mesaj": "lütfen DevOps otomasyon çözümü",
-      "normalize_mesaj": "lütfen devops otomasyon çözümü"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300017,
@@ -7440,8 +7451,9 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "entegrasyonu",
+      "normalize_mesaj": "lütfen devops otomasyon entegrasyonu",
       "ham_mesaj": "lütfen DevOps otomasyon entegrasyonu",
-      "normalize_mesaj": "lütfen devops otomasyon entegrasyonu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300018,
@@ -7453,8 +7465,9 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "sistemi",
+      "normalize_mesaj": "şirketimiz için devops otomasyon sistemi",
       "ham_mesaj": "şirketimiz için DevOps otomasyon sistemi",
-      "normalize_mesaj": "şirketimiz için devops otomasyon sistemi"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300019,
@@ -7466,8 +7479,9 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "yazılımı",
+      "normalize_mesaj": "şirketimiz için devops otomasyon yazılımı",
       "ham_mesaj": "şirketimiz için DevOps otomasyon yazılımı",
-      "normalize_mesaj": "şirketimiz için devops otomasyon yazılımı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300020,
@@ -7479,8 +7493,9 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "altyapısı",
+      "normalize_mesaj": "şirketimiz için devops otomasyon altyapısı",
       "ham_mesaj": "şirketimiz için DevOps otomasyon altyapısı",
-      "normalize_mesaj": "şirketimiz için devops otomasyon altyapısı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300021,
@@ -7492,8 +7507,9 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "platformu",
+      "normalize_mesaj": "şirketimiz için devops otomasyon platformu",
       "ham_mesaj": "şirketimiz için DevOps otomasyon platformu",
-      "normalize_mesaj": "şirketimiz için devops otomasyon platformu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300022,
@@ -7505,8 +7521,9 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "çözümü",
+      "normalize_mesaj": "şirketimiz için devops otomasyon çözümü",
       "ham_mesaj": "şirketimiz için DevOps otomasyon çözümü",
-      "normalize_mesaj": "şirketimiz için devops otomasyon çözümü"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300023,
@@ -7518,8 +7535,9 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "entegrasyonu",
+      "normalize_mesaj": "şirketimiz için devops otomasyon entegrasyonu",
       "ham_mesaj": "şirketimiz için DevOps otomasyon entegrasyonu",
-      "normalize_mesaj": "şirketimiz için devops otomasyon entegrasyonu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300024,
@@ -7531,8 +7549,9 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "sistemi",
+      "normalize_mesaj": "yeni devops otomasyon sistemi",
       "ham_mesaj": "yeni DevOps otomasyon sistemi",
-      "normalize_mesaj": "yeni devops otomasyon sistemi"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300025,
@@ -7544,8 +7563,9 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "yazılımı",
+      "normalize_mesaj": "yeni devops otomasyon yazılımı",
       "ham_mesaj": "yeni DevOps otomasyon yazılımı",
-      "normalize_mesaj": "yeni devops otomasyon yazılımı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300026,
@@ -7557,8 +7577,9 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "altyapısı",
+      "normalize_mesaj": "yeni devops otomasyon altyapısı",
       "ham_mesaj": "yeni DevOps otomasyon altyapısı",
-      "normalize_mesaj": "yeni devops otomasyon altyapısı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300027,
@@ -7570,8 +7591,9 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "platformu",
+      "normalize_mesaj": "yeni devops otomasyon platformu",
       "ham_mesaj": "yeni DevOps otomasyon platformu",
-      "normalize_mesaj": "yeni devops otomasyon platformu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300028,
@@ -7583,8 +7605,9 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "çözümü",
+      "normalize_mesaj": "yeni devops otomasyon çözümü",
       "ham_mesaj": "yeni DevOps otomasyon çözümü",
-      "normalize_mesaj": "yeni devops otomasyon çözümü"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300029,
@@ -7596,8 +7619,9 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "entegrasyonu",
+      "normalize_mesaj": "yeni devops otomasyon entegrasyonu",
       "ham_mesaj": "yeni DevOps otomasyon entegrasyonu",
-      "normalize_mesaj": "yeni devops otomasyon entegrasyonu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300030,
@@ -7609,8 +7633,9 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "sistemi",
+      "normalize_mesaj": "kurumsal devops otomasyon sistemi",
       "ham_mesaj": "kurumsal DevOps otomasyon sistemi",
-      "normalize_mesaj": "kurumsal devops otomasyon sistemi"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300031,
@@ -7622,8 +7647,9 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "yazılımı",
+      "normalize_mesaj": "kurumsal devops otomasyon yazılımı",
       "ham_mesaj": "kurumsal DevOps otomasyon yazılımı",
-      "normalize_mesaj": "kurumsal devops otomasyon yazılımı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300032,
@@ -7635,8 +7661,9 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "altyapısı",
+      "normalize_mesaj": "kurumsal devops otomasyon altyapısı",
       "ham_mesaj": "kurumsal DevOps otomasyon altyapısı",
-      "normalize_mesaj": "kurumsal devops otomasyon altyapısı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300033,
@@ -7648,8 +7675,9 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "platformu",
+      "normalize_mesaj": "kurumsal devops otomasyon platformu",
       "ham_mesaj": "kurumsal DevOps otomasyon platformu",
-      "normalize_mesaj": "kurumsal devops otomasyon platformu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300034,
@@ -7661,8 +7689,9 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "çözümü",
+      "normalize_mesaj": "kurumsal devops otomasyon çözümü",
       "ham_mesaj": "kurumsal DevOps otomasyon çözümü",
-      "normalize_mesaj": "kurumsal devops otomasyon çözümü"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300035,
@@ -7674,8 +7703,9 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "entegrasyonu",
+      "normalize_mesaj": "kurumsal devops otomasyon entegrasyonu",
       "ham_mesaj": "kurumsal DevOps otomasyon entegrasyonu",
-      "normalize_mesaj": "kurumsal devops otomasyon entegrasyonu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300036,
@@ -7687,8 +7717,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "sistemi",
+      "normalize_mesaj": "ci/cd boru hattı sistemi",
       "ham_mesaj": "CI/CD boru hattı sistemi",
-      "normalize_mesaj": "ci/cd boru hattı sistemi"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300037,
@@ -7700,8 +7731,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "yazılımı",
+      "normalize_mesaj": "ci/cd boru hattı yazılımı",
       "ham_mesaj": "CI/CD boru hattı yazılımı",
-      "normalize_mesaj": "ci/cd boru hattı yazılımı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300038,
@@ -7713,8 +7745,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "altyapısı",
+      "normalize_mesaj": "ci/cd boru hattı altyapısı",
       "ham_mesaj": "CI/CD boru hattı altyapısı",
-      "normalize_mesaj": "ci/cd boru hattı altyapısı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300039,
@@ -7726,8 +7759,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "platformu",
+      "normalize_mesaj": "ci/cd boru hattı platformu",
       "ham_mesaj": "CI/CD boru hattı platformu",
-      "normalize_mesaj": "ci/cd boru hattı platformu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300040,
@@ -7739,8 +7773,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "çözümü",
+      "normalize_mesaj": "ci/cd boru hattı çözümü",
       "ham_mesaj": "CI/CD boru hattı çözümü",
-      "normalize_mesaj": "ci/cd boru hattı çözümü"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300041,
@@ -7752,8 +7787,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "entegrasyonu",
+      "normalize_mesaj": "ci/cd boru hattı entegrasyonu",
       "ham_mesaj": "CI/CD boru hattı entegrasyonu",
-      "normalize_mesaj": "ci/cd boru hattı entegrasyonu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300042,
@@ -7765,8 +7801,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "sistemi",
+      "normalize_mesaj": "acil ci/cd boru hattı sistemi",
       "ham_mesaj": "acil CI/CD boru hattı sistemi",
-      "normalize_mesaj": "acil ci/cd boru hattı sistemi"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300043,
@@ -7778,8 +7815,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "yazılımı",
+      "normalize_mesaj": "acil ci/cd boru hattı yazılımı",
       "ham_mesaj": "acil CI/CD boru hattı yazılımı",
-      "normalize_mesaj": "acil ci/cd boru hattı yazılımı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300044,
@@ -7791,8 +7829,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "altyapısı",
+      "normalize_mesaj": "acil ci/cd boru hattı altyapısı",
       "ham_mesaj": "acil CI/CD boru hattı altyapısı",
-      "normalize_mesaj": "acil ci/cd boru hattı altyapısı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300045,
@@ -7804,8 +7843,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "platformu",
+      "normalize_mesaj": "acil ci/cd boru hattı platformu",
       "ham_mesaj": "acil CI/CD boru hattı platformu",
-      "normalize_mesaj": "acil ci/cd boru hattı platformu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300046,
@@ -7817,8 +7857,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "çözümü",
+      "normalize_mesaj": "acil ci/cd boru hattı çözümü",
       "ham_mesaj": "acil CI/CD boru hattı çözümü",
-      "normalize_mesaj": "acil ci/cd boru hattı çözümü"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300047,
@@ -7830,8 +7871,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "entegrasyonu",
+      "normalize_mesaj": "acil ci/cd boru hattı entegrasyonu",
       "ham_mesaj": "acil CI/CD boru hattı entegrasyonu",
-      "normalize_mesaj": "acil ci/cd boru hattı entegrasyonu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300048,
@@ -7843,8 +7885,9 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "sistemi",
+      "normalize_mesaj": "lütfen ci/cd boru hattı sistemi",
       "ham_mesaj": "lütfen CI/CD boru hattı sistemi",
-      "normalize_mesaj": "lütfen ci/cd boru hattı sistemi"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300049,
@@ -7856,8 +7899,9 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "yazılımı",
+      "normalize_mesaj": "lütfen ci/cd boru hattı yazılımı",
       "ham_mesaj": "lütfen CI/CD boru hattı yazılımı",
-      "normalize_mesaj": "lütfen ci/cd boru hattı yazılımı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300050,
@@ -7869,8 +7913,9 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "altyapısı",
+      "normalize_mesaj": "lütfen ci/cd boru hattı altyapısı",
       "ham_mesaj": "lütfen CI/CD boru hattı altyapısı",
-      "normalize_mesaj": "lütfen ci/cd boru hattı altyapısı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300051,
@@ -7882,8 +7927,9 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "platformu",
+      "normalize_mesaj": "lütfen ci/cd boru hattı platformu",
       "ham_mesaj": "lütfen CI/CD boru hattı platformu",
-      "normalize_mesaj": "lütfen ci/cd boru hattı platformu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300052,
@@ -7895,8 +7941,9 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "çözümü",
+      "normalize_mesaj": "lütfen ci/cd boru hattı çözümü",
       "ham_mesaj": "lütfen CI/CD boru hattı çözümü",
-      "normalize_mesaj": "lütfen ci/cd boru hattı çözümü"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300053,
@@ -7908,8 +7955,9 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "entegrasyonu",
+      "normalize_mesaj": "lütfen ci/cd boru hattı entegrasyonu",
       "ham_mesaj": "lütfen CI/CD boru hattı entegrasyonu",
-      "normalize_mesaj": "lütfen ci/cd boru hattı entegrasyonu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300054,
@@ -7921,8 +7969,9 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "sistemi",
+      "normalize_mesaj": "şirketimiz için ci/cd boru hattı sistemi",
       "ham_mesaj": "şirketimiz için CI/CD boru hattı sistemi",
-      "normalize_mesaj": "şirketimiz için ci/cd boru hattı sistemi"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300055,
@@ -7934,8 +7983,9 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "yazılımı",
+      "normalize_mesaj": "şirketimiz için ci/cd boru hattı yazılımı",
       "ham_mesaj": "şirketimiz için CI/CD boru hattı yazılımı",
-      "normalize_mesaj": "şirketimiz için ci/cd boru hattı yazılımı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300056,
@@ -7947,8 +7997,9 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "altyapısı",
+      "normalize_mesaj": "şirketimiz için ci/cd boru hattı altyapısı",
       "ham_mesaj": "şirketimiz için CI/CD boru hattı altyapısı",
-      "normalize_mesaj": "şirketimiz için ci/cd boru hattı altyapısı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300057,
@@ -7960,8 +8011,9 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "platformu",
+      "normalize_mesaj": "şirketimiz için ci/cd boru hattı platformu",
       "ham_mesaj": "şirketimiz için CI/CD boru hattı platformu",
-      "normalize_mesaj": "şirketimiz için ci/cd boru hattı platformu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300058,
@@ -7973,8 +8025,9 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "çözümü",
+      "normalize_mesaj": "şirketimiz için ci/cd boru hattı çözümü",
       "ham_mesaj": "şirketimiz için CI/CD boru hattı çözümü",
-      "normalize_mesaj": "şirketimiz için ci/cd boru hattı çözümü"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300059,
@@ -7986,8 +8039,9 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "entegrasyonu",
+      "normalize_mesaj": "şirketimiz için ci/cd boru hattı entegrasyonu",
       "ham_mesaj": "şirketimiz için CI/CD boru hattı entegrasyonu",
-      "normalize_mesaj": "şirketimiz için ci/cd boru hattı entegrasyonu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300060,
@@ -7999,8 +8053,9 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "sistemi",
+      "normalize_mesaj": "yeni ci/cd boru hattı sistemi",
       "ham_mesaj": "yeni CI/CD boru hattı sistemi",
-      "normalize_mesaj": "yeni ci/cd boru hattı sistemi"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300061,
@@ -8012,8 +8067,9 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "yazılımı",
+      "normalize_mesaj": "yeni ci/cd boru hattı yazılımı",
       "ham_mesaj": "yeni CI/CD boru hattı yazılımı",
-      "normalize_mesaj": "yeni ci/cd boru hattı yazılımı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300062,
@@ -8025,8 +8081,9 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "altyapısı",
+      "normalize_mesaj": "yeni ci/cd boru hattı altyapısı",
       "ham_mesaj": "yeni CI/CD boru hattı altyapısı",
-      "normalize_mesaj": "yeni ci/cd boru hattı altyapısı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300063,
@@ -8038,8 +8095,9 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "platformu",
+      "normalize_mesaj": "yeni ci/cd boru hattı platformu",
       "ham_mesaj": "yeni CI/CD boru hattı platformu",
-      "normalize_mesaj": "yeni ci/cd boru hattı platformu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300064,
@@ -8051,8 +8109,9 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "çözümü",
+      "normalize_mesaj": "yeni ci/cd boru hattı çözümü",
       "ham_mesaj": "yeni CI/CD boru hattı çözümü",
-      "normalize_mesaj": "yeni ci/cd boru hattı çözümü"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300065,
@@ -8064,8 +8123,9 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "entegrasyonu",
+      "normalize_mesaj": "yeni ci/cd boru hattı entegrasyonu",
       "ham_mesaj": "yeni CI/CD boru hattı entegrasyonu",
-      "normalize_mesaj": "yeni ci/cd boru hattı entegrasyonu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300066,
@@ -8077,8 +8137,9 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "sistemi",
+      "normalize_mesaj": "kurumsal ci/cd boru hattı sistemi",
       "ham_mesaj": "kurumsal CI/CD boru hattı sistemi",
-      "normalize_mesaj": "kurumsal ci/cd boru hattı sistemi"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300067,
@@ -8090,8 +8151,9 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "yazılımı",
+      "normalize_mesaj": "kurumsal ci/cd boru hattı yazılımı",
       "ham_mesaj": "kurumsal CI/CD boru hattı yazılımı",
-      "normalize_mesaj": "kurumsal ci/cd boru hattı yazılımı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300068,
@@ -8103,8 +8165,9 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "altyapısı",
+      "normalize_mesaj": "kurumsal ci/cd boru hattı altyapısı",
       "ham_mesaj": "kurumsal CI/CD boru hattı altyapısı",
-      "normalize_mesaj": "kurumsal ci/cd boru hattı altyapısı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300069,
@@ -8116,8 +8179,9 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "platformu",
+      "normalize_mesaj": "kurumsal ci/cd boru hattı platformu",
       "ham_mesaj": "kurumsal CI/CD boru hattı platformu",
-      "normalize_mesaj": "kurumsal ci/cd boru hattı platformu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300070,
@@ -8129,8 +8193,9 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "çözümü",
+      "normalize_mesaj": "kurumsal ci/cd boru hattı çözümü",
       "ham_mesaj": "kurumsal CI/CD boru hattı çözümü",
-      "normalize_mesaj": "kurumsal ci/cd boru hattı çözümü"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300071,
@@ -8142,8 +8207,9 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "entegrasyonu",
+      "normalize_mesaj": "kurumsal ci/cd boru hattı entegrasyonu",
       "ham_mesaj": "kurumsal CI/CD boru hattı entegrasyonu",
-      "normalize_mesaj": "kurumsal ci/cd boru hattı entegrasyonu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300072,
@@ -8155,8 +8221,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "sistemi",
+      "normalize_mesaj": "bulut altyapı yönetimi sistemi",
       "ham_mesaj": "bulut altyapı yönetimi sistemi",
-      "normalize_mesaj": "bulut altyapı yönetimi sistemi"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300073,
@@ -8168,8 +8235,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "yazılımı",
+      "normalize_mesaj": "bulut altyapı yönetimi yazılımı",
       "ham_mesaj": "bulut altyapı yönetimi yazılımı",
-      "normalize_mesaj": "bulut altyapı yönetimi yazılımı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300074,
@@ -8181,8 +8249,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "altyapısı",
+      "normalize_mesaj": "bulut altyapı yönetimi altyapısı",
       "ham_mesaj": "bulut altyapı yönetimi altyapısı",
-      "normalize_mesaj": "bulut altyapı yönetimi altyapısı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300075,
@@ -8194,8 +8263,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "platformu",
+      "normalize_mesaj": "bulut altyapı yönetimi platformu",
       "ham_mesaj": "bulut altyapı yönetimi platformu",
-      "normalize_mesaj": "bulut altyapı yönetimi platformu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300076,
@@ -8207,8 +8277,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "çözümü",
+      "normalize_mesaj": "bulut altyapı yönetimi çözümü",
       "ham_mesaj": "bulut altyapı yönetimi çözümü",
-      "normalize_mesaj": "bulut altyapı yönetimi çözümü"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300077,
@@ -8220,8 +8291,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "entegrasyonu",
+      "normalize_mesaj": "bulut altyapı yönetimi entegrasyonu",
       "ham_mesaj": "bulut altyapı yönetimi entegrasyonu",
-      "normalize_mesaj": "bulut altyapı yönetimi entegrasyonu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300078,
@@ -8233,8 +8305,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "sistemi",
+      "normalize_mesaj": "acil bulut altyapı yönetimi sistemi",
       "ham_mesaj": "acil bulut altyapı yönetimi sistemi",
-      "normalize_mesaj": "acil bulut altyapı yönetimi sistemi"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300079,
@@ -8246,8 +8319,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "yazılımı",
+      "normalize_mesaj": "acil bulut altyapı yönetimi yazılımı",
       "ham_mesaj": "acil bulut altyapı yönetimi yazılımı",
-      "normalize_mesaj": "acil bulut altyapı yönetimi yazılımı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300080,
@@ -8259,8 +8333,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "altyapısı",
+      "normalize_mesaj": "acil bulut altyapı yönetimi altyapısı",
       "ham_mesaj": "acil bulut altyapı yönetimi altyapısı",
-      "normalize_mesaj": "acil bulut altyapı yönetimi altyapısı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300081,
@@ -8272,8 +8347,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "platformu",
+      "normalize_mesaj": "acil bulut altyapı yönetimi platformu",
       "ham_mesaj": "acil bulut altyapı yönetimi platformu",
-      "normalize_mesaj": "acil bulut altyapı yönetimi platformu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300082,
@@ -8285,8 +8361,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "çözümü",
+      "normalize_mesaj": "acil bulut altyapı yönetimi çözümü",
       "ham_mesaj": "acil bulut altyapı yönetimi çözümü",
-      "normalize_mesaj": "acil bulut altyapı yönetimi çözümü"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300083,
@@ -8298,8 +8375,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "entegrasyonu",
+      "normalize_mesaj": "acil bulut altyapı yönetimi entegrasyonu",
       "ham_mesaj": "acil bulut altyapı yönetimi entegrasyonu",
-      "normalize_mesaj": "acil bulut altyapı yönetimi entegrasyonu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300084,
@@ -8311,8 +8389,9 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "sistemi",
+      "normalize_mesaj": "lütfen bulut altyapı yönetimi sistemi",
       "ham_mesaj": "lütfen bulut altyapı yönetimi sistemi",
-      "normalize_mesaj": "lütfen bulut altyapı yönetimi sistemi"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300085,
@@ -8324,8 +8403,9 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "yazılımı",
+      "normalize_mesaj": "lütfen bulut altyapı yönetimi yazılımı",
       "ham_mesaj": "lütfen bulut altyapı yönetimi yazılımı",
-      "normalize_mesaj": "lütfen bulut altyapı yönetimi yazılımı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300086,
@@ -8337,8 +8417,9 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "altyapısı",
+      "normalize_mesaj": "lütfen bulut altyapı yönetimi altyapısı",
       "ham_mesaj": "lütfen bulut altyapı yönetimi altyapısı",
-      "normalize_mesaj": "lütfen bulut altyapı yönetimi altyapısı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300087,
@@ -8350,8 +8431,9 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "platformu",
+      "normalize_mesaj": "lütfen bulut altyapı yönetimi platformu",
       "ham_mesaj": "lütfen bulut altyapı yönetimi platformu",
-      "normalize_mesaj": "lütfen bulut altyapı yönetimi platformu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300088,
@@ -8363,8 +8445,9 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "çözümü",
+      "normalize_mesaj": "lütfen bulut altyapı yönetimi çözümü",
       "ham_mesaj": "lütfen bulut altyapı yönetimi çözümü",
-      "normalize_mesaj": "lütfen bulut altyapı yönetimi çözümü"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300089,
@@ -8376,8 +8459,9 @@
       "varyant": "prefix_suffix",
       "prefix": "lütfen",
       "suffix": "entegrasyonu",
+      "normalize_mesaj": "lütfen bulut altyapı yönetimi entegrasyonu",
       "ham_mesaj": "lütfen bulut altyapı yönetimi entegrasyonu",
-      "normalize_mesaj": "lütfen bulut altyapı yönetimi entegrasyonu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300090,
@@ -8389,8 +8473,9 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "sistemi",
+      "normalize_mesaj": "şirketimiz için bulut altyapı yönetimi sistemi",
       "ham_mesaj": "şirketimiz için bulut altyapı yönetimi sistemi",
-      "normalize_mesaj": "şirketimiz için bulut altyapı yönetimi sistemi"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300091,
@@ -8402,8 +8487,9 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "yazılımı",
+      "normalize_mesaj": "şirketimiz için bulut altyapı yönetimi yazılımı",
       "ham_mesaj": "şirketimiz için bulut altyapı yönetimi yazılımı",
-      "normalize_mesaj": "şirketimiz için bulut altyapı yönetimi yazılımı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300092,
@@ -8415,8 +8501,9 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "altyapısı",
+      "normalize_mesaj": "şirketimiz için bulut altyapı yönetimi altyapısı",
       "ham_mesaj": "şirketimiz için bulut altyapı yönetimi altyapısı",
-      "normalize_mesaj": "şirketimiz için bulut altyapı yönetimi altyapısı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300093,
@@ -8428,8 +8515,9 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "platformu",
+      "normalize_mesaj": "şirketimiz için bulut altyapı yönetimi platformu",
       "ham_mesaj": "şirketimiz için bulut altyapı yönetimi platformu",
-      "normalize_mesaj": "şirketimiz için bulut altyapı yönetimi platformu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300094,
@@ -8441,8 +8529,9 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "çözümü",
+      "normalize_mesaj": "şirketimiz için bulut altyapı yönetimi çözümü",
       "ham_mesaj": "şirketimiz için bulut altyapı yönetimi çözümü",
-      "normalize_mesaj": "şirketimiz için bulut altyapı yönetimi çözümü"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300095,
@@ -8454,8 +8543,9 @@
       "varyant": "prefix_suffix",
       "prefix": "şirketimiz için",
       "suffix": "entegrasyonu",
+      "normalize_mesaj": "şirketimiz için bulut altyapı yönetimi entegrasyonu",
       "ham_mesaj": "şirketimiz için bulut altyapı yönetimi entegrasyonu",
-      "normalize_mesaj": "şirketimiz için bulut altyapı yönetimi entegrasyonu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300096,
@@ -8467,8 +8557,9 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "sistemi",
+      "normalize_mesaj": "yeni bulut altyapı yönetimi sistemi",
       "ham_mesaj": "yeni bulut altyapı yönetimi sistemi",
-      "normalize_mesaj": "yeni bulut altyapı yönetimi sistemi"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300097,
@@ -8480,8 +8571,9 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "yazılımı",
+      "normalize_mesaj": "yeni bulut altyapı yönetimi yazılımı",
       "ham_mesaj": "yeni bulut altyapı yönetimi yazılımı",
-      "normalize_mesaj": "yeni bulut altyapı yönetimi yazılımı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300098,
@@ -8493,8 +8585,9 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "altyapısı",
+      "normalize_mesaj": "yeni bulut altyapı yönetimi altyapısı",
       "ham_mesaj": "yeni bulut altyapı yönetimi altyapısı",
-      "normalize_mesaj": "yeni bulut altyapı yönetimi altyapısı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300099,
@@ -8506,8 +8599,9 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "platformu",
+      "normalize_mesaj": "yeni bulut altyapı yönetimi platformu",
       "ham_mesaj": "yeni bulut altyapı yönetimi platformu",
-      "normalize_mesaj": "yeni bulut altyapı yönetimi platformu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300100,
@@ -8519,8 +8613,9 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "çözümü",
+      "normalize_mesaj": "yeni bulut altyapı yönetimi çözümü",
       "ham_mesaj": "yeni bulut altyapı yönetimi çözümü",
-      "normalize_mesaj": "yeni bulut altyapı yönetimi çözümü"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300101,
@@ -8532,8 +8627,9 @@
       "varyant": "prefix_suffix",
       "prefix": "yeni",
       "suffix": "entegrasyonu",
+      "normalize_mesaj": "yeni bulut altyapı yönetimi entegrasyonu",
       "ham_mesaj": "yeni bulut altyapı yönetimi entegrasyonu",
-      "normalize_mesaj": "yeni bulut altyapı yönetimi entegrasyonu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300102,
@@ -8545,8 +8641,9 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "sistemi",
+      "normalize_mesaj": "kurumsal bulut altyapı yönetimi sistemi",
       "ham_mesaj": "kurumsal bulut altyapı yönetimi sistemi",
-      "normalize_mesaj": "kurumsal bulut altyapı yönetimi sistemi"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300103,
@@ -8558,8 +8655,9 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "yazılımı",
+      "normalize_mesaj": "kurumsal bulut altyapı yönetimi yazılımı",
       "ham_mesaj": "kurumsal bulut altyapı yönetimi yazılımı",
-      "normalize_mesaj": "kurumsal bulut altyapı yönetimi yazılımı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300104,
@@ -8571,8 +8669,9 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "altyapısı",
+      "normalize_mesaj": "kurumsal bulut altyapı yönetimi altyapısı",
       "ham_mesaj": "kurumsal bulut altyapı yönetimi altyapısı",
-      "normalize_mesaj": "kurumsal bulut altyapı yönetimi altyapısı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300105,
@@ -8584,8 +8683,9 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "platformu",
+      "normalize_mesaj": "kurumsal bulut altyapı yönetimi platformu",
       "ham_mesaj": "kurumsal bulut altyapı yönetimi platformu",
-      "normalize_mesaj": "kurumsal bulut altyapı yönetimi platformu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300106,
@@ -8597,8 +8697,9 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "çözümü",
+      "normalize_mesaj": "kurumsal bulut altyapı yönetimi çözümü",
       "ham_mesaj": "kurumsal bulut altyapı yönetimi çözümü",
-      "normalize_mesaj": "kurumsal bulut altyapı yönetimi çözümü"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300107,
@@ -8610,8 +8711,9 @@
       "varyant": "prefix_suffix",
       "prefix": "kurumsal",
       "suffix": "entegrasyonu",
+      "normalize_mesaj": "kurumsal bulut altyapı yönetimi entegrasyonu",
       "ham_mesaj": "kurumsal bulut altyapı yönetimi entegrasyonu",
-      "normalize_mesaj": "kurumsal bulut altyapı yönetimi entegrasyonu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300108,
@@ -8623,8 +8725,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "sistemi",
+      "normalize_mesaj": "siber güvenlik ve sızma testi sistemi",
       "ham_mesaj": "siber güvenlik ve sızma testi sistemi",
-      "normalize_mesaj": "siber güvenlik ve sızma testi sistemi"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300109,
@@ -8636,8 +8739,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "yazılımı",
+      "normalize_mesaj": "siber güvenlik ve sızma testi yazılımı",
       "ham_mesaj": "siber güvenlik ve sızma testi yazılımı",
-      "normalize_mesaj": "siber güvenlik ve sızma testi yazılımı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300110,
@@ -8649,8 +8753,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "altyapısı",
+      "normalize_mesaj": "siber güvenlik ve sızma testi altyapısı",
       "ham_mesaj": "siber güvenlik ve sızma testi altyapısı",
-      "normalize_mesaj": "siber güvenlik ve sızma testi altyapısı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300111,
@@ -8662,8 +8767,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "platformu",
+      "normalize_mesaj": "siber güvenlik ve sızma testi platformu",
       "ham_mesaj": "siber güvenlik ve sızma testi platformu",
-      "normalize_mesaj": "siber güvenlik ve sızma testi platformu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300112,
@@ -8675,8 +8781,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "çözümü",
+      "normalize_mesaj": "siber güvenlik ve sızma testi çözümü",
       "ham_mesaj": "siber güvenlik ve sızma testi çözümü",
-      "normalize_mesaj": "siber güvenlik ve sızma testi çözümü"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300113,
@@ -8688,8 +8795,9 @@
       "varyant": "prefix_suffix",
       "prefix": "",
       "suffix": "entegrasyonu",
+      "normalize_mesaj": "siber güvenlik ve sızma testi entegrasyonu",
       "ham_mesaj": "siber güvenlik ve sızma testi entegrasyonu",
-      "normalize_mesaj": "siber güvenlik ve sızma testi entegrasyonu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300114,
@@ -8701,8 +8809,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "sistemi",
+      "normalize_mesaj": "acil siber güvenlik ve sızma testi sistemi",
       "ham_mesaj": "acil siber güvenlik ve sızma testi sistemi",
-      "normalize_mesaj": "acil siber güvenlik ve sızma testi sistemi"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300115,
@@ -8714,8 +8823,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "yazılımı",
+      "normalize_mesaj": "acil siber güvenlik ve sızma testi yazılımı",
       "ham_mesaj": "acil siber güvenlik ve sızma testi yazılımı",
-      "normalize_mesaj": "acil siber güvenlik ve sızma testi yazılımı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300116,
@@ -8727,8 +8837,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "altyapısı",
+      "normalize_mesaj": "acil siber güvenlik ve sızma testi altyapısı",
       "ham_mesaj": "acil siber güvenlik ve sızma testi altyapısı",
-      "normalize_mesaj": "acil siber güvenlik ve sızma testi altyapısı"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300117,
@@ -8740,8 +8851,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "platformu",
+      "normalize_mesaj": "acil siber güvenlik ve sızma testi platformu",
       "ham_mesaj": "acil siber güvenlik ve sızma testi platformu",
-      "normalize_mesaj": "acil siber güvenlik ve sızma testi platformu"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300118,
@@ -8753,8 +8865,9 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "çözümü",
+      "normalize_mesaj": "acil siber güvenlik ve sızma testi çözümü",
       "ham_mesaj": "acil siber güvenlik ve sızma testi çözümü",
-      "normalize_mesaj": "acil siber güvenlik ve sızma testi çözümü"
+      "kaynak_kok": "devops otomasyon"
     },
     {
       "id": 300119,
@@ -8766,8 +8879,929 @@
       "varyant": "prefix_suffix",
       "prefix": "acil",
       "suffix": "entegrasyonu",
+      "normalize_mesaj": "acil siber güvenlik ve sızma testi entegrasyonu",
       "ham_mesaj": "acil siber güvenlik ve sızma testi entegrasyonu",
-      "normalize_mesaj": "acil siber güvenlik ve sızma testi entegrasyonu"
+      "kaynak_kok": "devops otomasyon"
+    },
+    {
+      "id": 300120,
+      "mesaj": "bulut altyapısı kurulumu için teklif almak istiyoruz",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "bulut altyapısı kurulumu için teklif almak istiyoruz",
+      "ham_mesaj": "bulut altyapısı kurulumu için teklif almak istiyoruz"
+    },
+    {
+      "id": 300121,
+      "mesaj": "bulut altyapisi kurulumu icin teklif almak istiyoruz",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix_ascii",
+      "kaynak_kok": "bulut altyapısı kurulumu için teklif almak istiyoruz",
+      "varyant": "duz_ascii",
+      "prefix": "",
+      "suffix": "",
+      "ascii_twin": true,
+      "normalize_mesaj": "bulut altyapisi kurulumu icin teklif almak istiyoruz",
+      "ham_mesaj": "bulut altyapisi kurulumu icin teklif almak istiyoruz"
+    },
+    {
+      "id": 300122,
+      "mesaj": "we need a cloud infrastructure setup and migration service",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "we need a cloud infrastructure setup and migration service",
+      "ham_mesaj": "we need a cloud infrastructure setup and migration service"
+    },
+    {
+      "id": 300123,
+      "mesaj": "kurumsal bulut altyapısı entegrasyonu",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix",
+      "kaynak_kok": "bulut altyapısı kurulumu için teklif almak istiyoruz",
+      "varyant": "suffix",
+      "prefix": "",
+      "suffix": "entegrasyonu istiyoruz",
+      "ascii_twin": false,
+      "normalize_mesaj": "kurumsal bulut altyapısı entegrasyonu",
+      "ham_mesaj": "kurumsal bulut altyapısı entegrasyonu"
+    },
+    {
+      "id": 300124,
+      "mesaj": "lütfen bulut altyapısı yazılımı",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix",
+      "kaynak_kok": "bulut altyapısı kurulumu için teklif almak istiyoruz",
+      "varyant": "prefix_suffix",
+      "prefix": "lütfen",
+      "suffix": "yazılımı gerekiyor",
+      "ascii_twin": false,
+      "normalize_mesaj": "lütfen bulut altyapısı yazılımı",
+      "ham_mesaj": "lütfen bulut altyapısı yazılımı"
+    },
+    {
+      "id": 300125,
+      "mesaj": "lutfen bulut altyapisi yazilimi",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix_ascii",
+      "kaynak_kok": "bulut altyapısı kurulumu için teklif almak istiyoruz",
+      "varyant": "prefix_suffix_ascii",
+      "prefix": "lutfen",
+      "suffix": "yazilimi gerekiyor",
+      "ascii_twin": true,
+      "normalize_mesaj": "lutfen bulut altyapisi yazilimi",
+      "ham_mesaj": "lutfen bulut altyapisi yazilimi"
+    },
+    {
+      "id": 400000,
+      "mesaj": "yapay zeka entegrasyonu arıyoruz",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "yapay zeka entegrasyonu arıyoruz",
+      "ham_mesaj": "yapay zeka entegrasyonu arıyoruz"
+    },
+    {
+      "id": 400001,
+      "mesaj": "YZ destekli müşteri hizmetleri platformu kurmak istiyoruz",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "yz destekli müşteri hizmetleri platformu kurmak istiyoruz",
+      "ham_mesaj": "YZ destekli müşteri hizmetleri platformu kurmak istiyoruz"
+    },
+    {
+      "id": 400002,
+      "mesaj": "makine öğrenmesi tabanlı tahmin sistemi",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "makine öğrenmesi tabanlı tahmin sistemi",
+      "ham_mesaj": "makine öğrenmesi tabanlı tahmin sistemi"
+    },
+    {
+      "id": 400003,
+      "mesaj": "yapay zeka ile veri analizi ve raporlama",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "yapay zeka ile veri analizi ve raporlama",
+      "ham_mesaj": "yapay zeka ile veri analizi ve raporlama"
+    },
+    {
+      "id": 400004,
+      "mesaj": "doğal dil işleme çözümü gerekiyor",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "doğal dil işleme çözümü gerekiyor",
+      "ham_mesaj": "doğal dil işleme çözümü gerekiyor"
+    },
+    {
+      "id": 400005,
+      "mesaj": "şirketimiz için chatbot ve AI asistanı geliştirmek",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "şirketimiz için chatbot ve ai asistanı geliştirmek",
+      "ham_mesaj": "şirketimiz için chatbot ve AI asistanı geliştirmek"
+    },
+    {
+      "id": 400006,
+      "mesaj": "yapay zeka tabanlı görüntü tanıma sistemi",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "yapay zeka tabanlı görüntü tanıma sistemi",
+      "ham_mesaj": "yapay zeka tabanlı görüntü tanıma sistemi"
+    },
+    {
+      "id": 400007,
+      "mesaj": "makine öğrenmesi modeli eğitim ve dağıtım altyapısı",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "uzun_kurumsal",
+      "normalize_mesaj": "makine öğrenmesi modeli eğitim ve dağıtım altyapısı",
+      "ham_mesaj": "makine öğrenmesi modeli eğitim ve dağıtım altyapısı"
+    },
+    {
+      "id": 400008,
+      "mesaj": "kurumsal düzeyde AI platformu ve MLOps altyapısı kuracağız",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "uzun_kurumsal",
+      "normalize_mesaj": "kurumsal düzeyde ai platformu ve mlops altyapısı kuracağız",
+      "ham_mesaj": "kurumsal düzeyde AI platformu ve MLOps altyapısı kuracağız"
+    },
+    {
+      "id": 400009,
+      "mesaj": "yz entegrasyon",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "kisaltma",
+      "normalize_mesaj": "yz entegrasyon",
+      "ham_mesaj": "yz entegrasyon"
+    },
+    {
+      "id": 400010,
+      "mesaj": "yz yapay zeka chatbot",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "argo",
+      "normalize_mesaj": "yz yapay zeka chatbot",
+      "ham_mesaj": "yz yapay zeka chatbot"
+    },
+    {
+      "id": 400011,
+      "mesaj": "yapay zeka entegrasyonu hakkında bilgi almak istiyoruz",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "yapay zeka entegrasyonu hakkında bilgi almak istiyoruz",
+      "ham_mesaj": "yapay zeka entegrasyonu hakkında bilgi almak istiyoruz"
+    },
+    {
+      "id": 400012,
+      "mesaj": "we need an artificial intelligence integration for our platform",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "we need an artificial intelligence integration for our platform",
+      "ham_mesaj": "we need an artificial intelligence integration for our platform"
+    },
+    {
+      "id": 400013,
+      "mesaj": "looking for a machine learning solution for customer analytics",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "looking for a machine learning solution for customer analytics",
+      "ham_mesaj": "looking for a machine learning solution for customer analytics"
+    },
+    {
+      "id": 400014,
+      "mesaj": "we want to implement an AI-powered chatbot for customer support",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "we want to implement an ai-powered chatbot for customer support",
+      "ham_mesaj": "we want to implement an AI-powered chatbot for customer support"
+    },
+    {
+      "id": 400015,
+      "mesaj": "need a natural language processing solution for document analysis",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "need a natural language processing solution for document analysis",
+      "ham_mesaj": "need a natural language processing solution for document analysis"
+    },
+    {
+      "id": 400016,
+      "mesaj": "seeking an AI and ML platform for predictive analytics",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "seeking an ai and ml platform for predictive analytics",
+      "ham_mesaj": "seeking an AI and ML platform for predictive analytics"
+    },
+    {
+      "id": 400017,
+      "mesaj": "we are looking to integrate generative AI into our existing ERP system",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "uzun_kurumsal",
+      "normalize_mesaj": "we are looking to integrate generative ai into our existing erp system",
+      "ham_mesaj": "we are looking to integrate generative AI into our existing ERP system"
+    },
+    {
+      "id": 400018,
+      "mesaj": "our enterprise needs an end-to-end MLOps pipeline and model deployment infrastructure",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "uzun_kurumsal",
+      "normalize_mesaj": "our enterprise needs an end-to-end mlops pipeline and model deployment infrastructure",
+      "ham_mesaj": "our enterprise needs an end-to-end MLOps pipeline and model deployment infrastructure"
+    },
+    {
+      "id": 400019,
+      "mesaj": "need computer vision and image recognition software for quality control",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "need computer vision and image recognition software for quality control",
+      "ham_mesaj": "need computer vision and image recognition software for quality control"
+    },
+    {
+      "id": 400020,
+      "mesaj": "ai integration platform required",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "ai integration platform required",
+      "ham_mesaj": "ai integration platform required"
+    },
+    {
+      "id": 400021,
+      "mesaj": "AI chatbot and virtual assistant development services",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "ai chatbot and virtual assistant development services",
+      "ham_mesaj": "AI chatbot and virtual assistant development services"
+    },
+    {
+      "id": 400022,
+      "mesaj": "we need an NLP engine to process and classify unstructured text data",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "uzun_kurumsal",
+      "normalize_mesaj": "we need an nlp engine to process and classify unstructured text data",
+      "ham_mesaj": "we need an NLP engine to process and classify unstructured text data"
+    },
+    {
+      "id": 400023,
+      "mesaj": "looking for a vendor specializing in deep learning and neural network solutions",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "looking for a vendor specializing in deep learning and neural network solutions",
+      "ham_mesaj": "looking for a vendor specializing in deep learning and neural network solutions"
+    },
+    {
+      "id": 400024,
+      "mesaj": "yapay zeka entegrasyonu",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix",
+      "kaynak_kok": "yapay zeka entegrasyonu",
+      "varyant": "duz",
+      "prefix": "",
+      "suffix": "",
+      "ascii_twin": false,
+      "normalize_mesaj": "yapay zeka entegrasyonu",
+      "ham_mesaj": "yapay zeka entegrasyonu"
+    },
+    {
+      "id": 400025,
+      "mesaj": "yapay zeka entegrasyonu entegrasyonu",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix",
+      "kaynak_kok": "yapay zeka entegrasyonu",
+      "varyant": "suffix",
+      "prefix": "",
+      "suffix": "entegrasyonu istiyoruz",
+      "ascii_twin": false,
+      "normalize_mesaj": "yapay zeka entegrasyonu entegrasyonu",
+      "ham_mesaj": "yapay zeka entegrasyonu entegrasyonu"
+    },
+    {
+      "id": 400026,
+      "mesaj": "yapay zeka entegrasyonu yazılımı",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix",
+      "kaynak_kok": "yapay zeka entegrasyonu",
+      "varyant": "suffix",
+      "prefix": "",
+      "suffix": "yazılımı gerekiyor",
+      "ascii_twin": false,
+      "normalize_mesaj": "yapay zeka entegrasyonu yazılımı",
+      "ham_mesaj": "yapay zeka entegrasyonu yazılımı"
+    },
+    {
+      "id": 400027,
+      "mesaj": "yapay zeka entegrasyonu sistemi",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix",
+      "kaynak_kok": "yapay zeka entegrasyonu",
+      "varyant": "suffix",
+      "prefix": "",
+      "suffix": "sistemi lazım",
+      "ascii_twin": false,
+      "normalize_mesaj": "yapay zeka entegrasyonu sistemi",
+      "ham_mesaj": "yapay zeka entegrasyonu sistemi"
+    },
+    {
+      "id": 400028,
+      "mesaj": "yapay zeka entegrasyonu hizmeti almak",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix",
+      "kaynak_kok": "yapay zeka entegrasyonu",
+      "varyant": "suffix",
+      "prefix": "",
+      "suffix": "hizmeti almak istiyoruz",
+      "ascii_twin": false,
+      "normalize_mesaj": "yapay zeka entegrasyonu hizmeti almak",
+      "ham_mesaj": "yapay zeka entegrasyonu hizmeti almak"
+    },
+    {
+      "id": 400029,
+      "mesaj": "lütfen yapay zeka entegrasyonu",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix",
+      "kaynak_kok": "yapay zeka entegrasyonu",
+      "varyant": "prefix",
+      "prefix": "lütfen",
+      "suffix": "",
+      "ascii_twin": false,
+      "normalize_mesaj": "lütfen yapay zeka entegrasyonu",
+      "ham_mesaj": "lütfen yapay zeka entegrasyonu"
+    },
+    {
+      "id": 400030,
+      "mesaj": "yapay zeka entegrasyonu",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix_ascii",
+      "kaynak_kok": "yapay zeka entegrasyonu",
+      "varyant": "duz_ascii",
+      "prefix": "",
+      "suffix": "",
+      "ascii_twin": true,
+      "normalize_mesaj": "yapay zeka entegrasyonu",
+      "ham_mesaj": "yapay zeka entegrasyonu"
+    },
+    {
+      "id": 400031,
+      "mesaj": "yapay zeka entegrasyonu entegrasyonu",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix_ascii",
+      "kaynak_kok": "yapay zeka entegrasyonu",
+      "varyant": "suffix_ascii",
+      "prefix": "",
+      "suffix": "entegrasyonu istiyoruz",
+      "ascii_twin": true,
+      "normalize_mesaj": "yapay zeka entegrasyonu entegrasyonu",
+      "ham_mesaj": "yapay zeka entegrasyonu entegrasyonu"
+    },
+    {
+      "id": 400032,
+      "mesaj": "yapay zeka entegrasyonu yazilimi",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix_ascii",
+      "kaynak_kok": "yapay zeka entegrasyonu",
+      "varyant": "suffix_ascii",
+      "prefix": "",
+      "suffix": "yazilimi gerekiyor",
+      "ascii_twin": true,
+      "normalize_mesaj": "yapay zeka entegrasyonu yazilimi",
+      "ham_mesaj": "yapay zeka entegrasyonu yazilimi"
+    },
+    {
+      "id": 400033,
+      "mesaj": "lutfen yapay zeka entegrasyonu",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix_ascii",
+      "kaynak_kok": "yapay zeka entegrasyonu",
+      "varyant": "prefix_ascii",
+      "prefix": "lutfen",
+      "suffix": "",
+      "ascii_twin": true,
+      "normalize_mesaj": "lutfen yapay zeka entegrasyonu",
+      "ham_mesaj": "lutfen yapay zeka entegrasyonu"
+    },
+    {
+      "id": 400034,
+      "mesaj": "lutfen yapay zeka entegrasyonu yazilimi",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix_ascii",
+      "kaynak_kok": "yapay zeka entegrasyonu",
+      "varyant": "prefix_suffix_ascii",
+      "prefix": "lutfen",
+      "suffix": "yazilimi gerekiyor",
+      "ascii_twin": true,
+      "normalize_mesaj": "lutfen yapay zeka entegrasyonu yazilimi",
+      "ham_mesaj": "lutfen yapay zeka entegrasyonu yazilimi"
+    },
+    {
+      "id": 400035,
+      "mesaj": "acil yapay zeka entegrasyonu",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix_ascii",
+      "kaynak_kok": "yapay zeka entegrasyonu",
+      "varyant": "prefix_ascii",
+      "prefix": "acil",
+      "suffix": "",
+      "ascii_twin": true,
+      "normalize_mesaj": "acil yapay zeka entegrasyonu",
+      "ham_mesaj": "acil yapay zeka entegrasyonu"
+    },
+    {
+      "id": 400100,
+      "mesaj": "veri güvenliği çözümü arıyoruz",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "veri güvenliği çözümü arıyoruz",
+      "ham_mesaj": "veri güvenliği çözümü arıyoruz"
+    },
+    {
+      "id": 400101,
+      "mesaj": "kurumsal siber güvenlik ve veri koruma sistemi",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "kurumsal siber güvenlik ve veri koruma sistemi",
+      "ham_mesaj": "kurumsal siber güvenlik ve veri koruma sistemi"
+    },
+    {
+      "id": 400102,
+      "mesaj": "veri sızıntısı önleme yazılımı ihtiyacımız var",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "veri sızıntısı önleme yazılımı ihtiyacımız var",
+      "ham_mesaj": "veri sızıntısı önleme yazılımı ihtiyacımız var"
+    },
+    {
+      "id": 400103,
+      "mesaj": "GDPR uyumlu veri yönetimi platformu kurmak istiyoruz",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "gdpr uyumlu veri yönetimi platformu kurmak istiyoruz",
+      "ham_mesaj": "GDPR uyumlu veri yönetimi platformu kurmak istiyoruz"
+    },
+    {
+      "id": 400104,
+      "mesaj": "şifreli veri depolama ve erişim yönetim sistemi",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "şifreli veri depolama ve erişim yönetim sistemi",
+      "ham_mesaj": "şifreli veri depolama ve erişim yönetim sistemi"
+    },
+    {
+      "id": 400105,
+      "mesaj": "çalışanlarımızın verilerine kimin eriştiğini izleyeceğiz",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "argo",
+      "normalize_mesaj": "çalışanlarımızın verilerine kimin eriştiğini izleyeceğiz",
+      "ham_mesaj": "çalışanlarımızın verilerine kimin eriştiğini izleyeceğiz"
+    },
+    {
+      "id": 400106,
+      "mesaj": "KVKK uyumlu veri güvenliği altyapısı kurulacak",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "kvkk uyumlu veri güvenliği altyapısı kurulacak",
+      "ham_mesaj": "KVKK uyumlu veri güvenliği altyapısı kurulacak"
+    },
+    {
+      "id": 400107,
+      "mesaj": "şirketimiz için uçtan uca şifreleme ve veri kaybı önleme çözümü",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "uzun_kurumsal",
+      "normalize_mesaj": "şirketimiz için uçtan uca şifreleme ve veri kaybı önleme çözümü",
+      "ham_mesaj": "şirketimiz için uçtan uca şifreleme ve veri kaybı önleme çözümü"
+    },
+    {
+      "id": 400108,
+      "mesaj": "veri gvnlg sistemi lazım",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "yazim",
+      "normalize_mesaj": "veri gvnlg sistemi lazım",
+      "ham_mesaj": "veri gvnlg sistemi lazım"
+    },
+    {
+      "id": 400109,
+      "mesaj": "veri gvnlg çözümü",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "kisaltma",
+      "normalize_mesaj": "veri gvnlg çözümü",
+      "ham_mesaj": "veri gvnlg çözümü"
+    },
+    {
+      "id": 400110,
+      "mesaj": "bulut tabanlı veri güvenliği ve uyumluluk platformu arıyoruz",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "bulut tabanlı veri güvenliği ve uyumluluk platformu arıyoruz",
+      "ham_mesaj": "bulut tabanlı veri güvenliği ve uyumluluk platformu arıyoruz"
+    },
+    {
+      "id": 400111,
+      "mesaj": "ağ güvenliği ve saldırı tespit sistemi kurulumu",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "ağ güvenliği ve saldırı tespit sistemi kurulumu",
+      "ham_mesaj": "ağ güvenliği ve saldırı tespit sistemi kurulumu"
+    },
+    {
+      "id": 400112,
+      "mesaj": "we need a data security and encryption solution for our cloud infrastructure",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "we need a data security and encryption solution for our cloud infrastructure",
+      "ham_mesaj": "we need a data security and encryption solution for our cloud infrastructure"
+    },
+    {
+      "id": 400113,
+      "mesaj": "looking for a GDPR-compliant data management and protection platform",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "looking for a gdpr-compliant data management and protection platform",
+      "ham_mesaj": "looking for a GDPR-compliant data management and protection platform"
+    },
+    {
+      "id": 400114,
+      "mesaj": "need a data loss prevention solution for our enterprise",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "need a data loss prevention solution for our enterprise",
+      "ham_mesaj": "need a data loss prevention solution for our enterprise"
+    },
+    {
+      "id": 400115,
+      "mesaj": "seeking an intrusion detection and network security monitoring system",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "seeking an intrusion detection and network security monitoring system",
+      "ham_mesaj": "seeking an intrusion detection and network security monitoring system"
+    },
+    {
+      "id": 400116,
+      "mesaj": "we want to implement zero-trust security architecture for our organization",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "uzun_kurumsal",
+      "normalize_mesaj": "we want to implement zero-trust security architecture for our organization",
+      "ham_mesaj": "we want to implement zero-trust security architecture for our organization"
+    },
+    {
+      "id": 400117,
+      "mesaj": "our company needs endpoint security and vulnerability management software",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "our company needs endpoint security and vulnerability management software",
+      "ham_mesaj": "our company needs endpoint security and vulnerability management software"
+    },
+    {
+      "id": 400118,
+      "mesaj": "looking for a SIEM platform to centralize security event monitoring and response",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "uzun_kurumsal",
+      "normalize_mesaj": "looking for a siem platform to centralize security event monitoring and response",
+      "ham_mesaj": "looking for a SIEM platform to centralize security event monitoring and response"
+    },
+    {
+      "id": 400119,
+      "mesaj": "need identity and access management software to control user permissions",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "need identity and access management software to control user permissions",
+      "ham_mesaj": "need identity and access management software to control user permissions"
+    },
+    {
+      "id": 400120,
+      "mesaj": "data security platform required for compliance",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "data security platform required for compliance",
+      "ham_mesaj": "data security platform required for compliance"
+    },
+    {
+      "id": 400121,
+      "mesaj": "cybersecurity and data protection software needed",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K1",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "cybersecurity and data protection software needed",
+      "ham_mesaj": "cybersecurity and data protection software needed"
+    },
+    {
+      "id": 400122,
+      "mesaj": "we are looking for a cloud security posture management solution",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "we are looking for a cloud security posture management solution",
+      "ham_mesaj": "we are looking for a cloud security posture management solution"
+    },
+    {
+      "id": 400123,
+      "mesaj": "need a penetration testing and vulnerability assessment service",
+      "lang": "en",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "dogrudan",
+      "normalize_mesaj": "need a penetration testing and vulnerability assessment service",
+      "ham_mesaj": "need a penetration testing and vulnerability assessment service"
+    },
+    {
+      "id": 400124,
+      "mesaj": "veri güvenliği",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix",
+      "kaynak_kok": "veri güvenliği",
+      "varyant": "duz",
+      "prefix": "",
+      "suffix": "",
+      "ascii_twin": false,
+      "normalize_mesaj": "veri güvenliği",
+      "ham_mesaj": "veri güvenliği"
+    },
+    {
+      "id": 400125,
+      "mesaj": "veri güvenliği entegrasyonu",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix",
+      "kaynak_kok": "veri güvenliği",
+      "varyant": "suffix",
+      "prefix": "",
+      "suffix": "entegrasyonu istiyoruz",
+      "ascii_twin": false,
+      "normalize_mesaj": "veri güvenliği entegrasyonu",
+      "ham_mesaj": "veri güvenliği entegrasyonu"
+    },
+    {
+      "id": 400126,
+      "mesaj": "veri güvenliği yazılımı",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix",
+      "kaynak_kok": "veri güvenliği",
+      "varyant": "suffix",
+      "prefix": "",
+      "suffix": "yazılımı gerekiyor",
+      "ascii_twin": false,
+      "normalize_mesaj": "veri güvenliği yazılımı",
+      "ham_mesaj": "veri güvenliği yazılımı"
+    },
+    {
+      "id": 400127,
+      "mesaj": "veri güvenliği sistemi",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix",
+      "kaynak_kok": "veri güvenliği",
+      "varyant": "suffix",
+      "prefix": "",
+      "suffix": "sistemi lazım",
+      "ascii_twin": false,
+      "normalize_mesaj": "veri güvenliği sistemi",
+      "ham_mesaj": "veri güvenliği sistemi"
+    },
+    {
+      "id": 400128,
+      "mesaj": "veri güvenliği hizmeti almak",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix",
+      "kaynak_kok": "veri güvenliği",
+      "varyant": "suffix",
+      "prefix": "",
+      "suffix": "hizmeti almak istiyoruz",
+      "ascii_twin": false,
+      "normalize_mesaj": "veri güvenliği hizmeti almak",
+      "ham_mesaj": "veri güvenliği hizmeti almak"
+    },
+    {
+      "id": 400129,
+      "mesaj": "lütfen veri güvenliği",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix",
+      "kaynak_kok": "veri güvenliği",
+      "varyant": "prefix",
+      "prefix": "lütfen",
+      "suffix": "",
+      "ascii_twin": false,
+      "normalize_mesaj": "lütfen veri güvenliği",
+      "ham_mesaj": "lütfen veri güvenliği"
+    },
+    {
+      "id": 400130,
+      "mesaj": "veri guvenligi",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix_ascii",
+      "kaynak_kok": "veri güvenliği",
+      "varyant": "duz_ascii",
+      "prefix": "",
+      "suffix": "",
+      "ascii_twin": true,
+      "normalize_mesaj": "veri guvenligi",
+      "ham_mesaj": "veri guvenligi"
+    },
+    {
+      "id": 400131,
+      "mesaj": "veri guvenligi entegrasyonu",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix_ascii",
+      "kaynak_kok": "veri güvenliği",
+      "varyant": "suffix_ascii",
+      "prefix": "",
+      "suffix": "entegrasyonu istiyoruz",
+      "ascii_twin": true,
+      "normalize_mesaj": "veri guvenligi entegrasyonu",
+      "ham_mesaj": "veri guvenligi entegrasyonu"
+    },
+    {
+      "id": 400132,
+      "mesaj": "veri guvenligi yazilimi",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix_ascii",
+      "kaynak_kok": "veri güvenliği",
+      "varyant": "suffix_ascii",
+      "prefix": "",
+      "suffix": "yazilimi gerekiyor",
+      "ascii_twin": true,
+      "normalize_mesaj": "veri guvenligi yazilimi",
+      "ham_mesaj": "veri guvenligi yazilimi"
+    },
+    {
+      "id": 400133,
+      "mesaj": "lutfen veri guvenligi",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix_ascii",
+      "kaynak_kok": "veri güvenliği",
+      "varyant": "prefix_ascii",
+      "prefix": "lutfen",
+      "suffix": "",
+      "ascii_twin": true,
+      "normalize_mesaj": "lutfen veri guvenligi",
+      "ham_mesaj": "lutfen veri guvenligi"
+    },
+    {
+      "id": 400134,
+      "mesaj": "lutfen veri guvenligi yazilimi",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix_ascii",
+      "kaynak_kok": "veri güvenliği",
+      "varyant": "prefix_suffix_ascii",
+      "prefix": "lutfen",
+      "suffix": "yazilimi gerekiyor",
+      "ascii_twin": true,
+      "normalize_mesaj": "lutfen veri guvenligi yazilimi",
+      "ham_mesaj": "lutfen veri guvenligi yazilimi"
+    },
+    {
+      "id": 400135,
+      "mesaj": "acil veri guvenligi",
+      "lang": "tr",
+      "beklenen_sektor": "bilisim",
+      "beklenen_mod": "K2",
+      "zorluk": "augmented_prefix_suffix_ascii",
+      "kaynak_kok": "veri güvenliği",
+      "varyant": "prefix_ascii",
+      "prefix": "acil",
+      "suffix": "",
+      "ascii_twin": true,
+      "normalize_mesaj": "acil veri guvenligi",
+      "ham_mesaj": "acil veri guvenligi"
     }
   ]
 }
