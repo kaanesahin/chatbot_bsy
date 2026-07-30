@@ -4,8 +4,8 @@ import warnings
 warnings.filterwarnings('ignore', category=UserWarning)
 
 def main():
-    # PostgreSQL bağlantısı (şifre 123456, port 5433)
-    conn = psycopg2.connect("postgresql://postgres:123456@localhost:5433/chatbot_db")
+    # PostgreSQL bağlantısı (şifre 123456, port 5432)
+    conn = psycopg2.connect("postgresql://postgres:123456@localhost:5432/chatbot_db")
     
     print("\n" + "="*50)
     print(" 1) INTENTS TABLOSU (Niyet Kodları)")
