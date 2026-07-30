@@ -20,20 +20,23 @@ from db_api.schemas import ChatLogRequest, ChatTurnRequest, ChatTurnResponse
 
 router = APIRouter(tags=["chat"])
 
+# Sektör key'leri intent_router_contract.map_sector()'un döndürdüğü
+# (Türkçe/ASCII) değerlerle ve db_api/routers/seed.py'de tanımlanan
+# intent_code'larla birebir eşleşmelidir.
 _SECTOR_INTENT_CODE: dict[str, str] = {
-    "health": "health_appointment",
-    "tourism": "tourism_hotel",
-    "entertainment": "entertainment_ticketing",
-    "education": "education_enrollment",
-    "it": "it_infrastructure",
+    "saglik":  "health_appointment",
+    "turizm":  "tourism_hotel",
+    "eglence": "eglence_streaming",
+    "egitim":  "education_enrollment",
+    "bilisim": "bilisim_integration",
 }
 
 _SECTOR_TR: dict[str, str] = {
-    "health": "sağlık",
-    "tourism": "turizm",
-    "entertainment": "eğlence",
-    "education": "eğitim",
-    "it": "bilişim",
+    "saglik":  "sağlık",
+    "turizm":  "turizm",
+    "eglence": "eğlence",
+    "egitim":  "eğitim",
+    "bilisim": "bilişim",
 }
 
 

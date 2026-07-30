@@ -30,12 +30,12 @@ from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
 
 ADMIN_URL = os.getenv(
     "ADMIN_DATABASE_URL",
-    "postgresql://postgres:postgres@localhost:5432/postgres",
+    "postgresql://postgres:postgres@localhost:5433/postgres",
 )
 DB_NAME = os.getenv("POSTGRES_DB", "chatbot_db")
 TARGET_URL = os.getenv(
     "DATABASE_URL",
-    f"postgresql+psycopg2://postgres:postgres@localhost:5432/{DB_NAME}",
+    f"postgresql+psycopg2://postgres:postgres@localhost:5433/{DB_NAME}",
 ).replace("postgresql+psycopg2://", "postgresql://")
 
 

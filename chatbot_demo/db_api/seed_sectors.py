@@ -4,11 +4,12 @@ import psycopg2
 ROWS = [
     ("health", "Sağlık", "Health"),
     ("tourism", "Turizm", "Tourism"),
-    ("defense", "Savunma", "Defense"),
     ("education", "Eğitim", "Education"),
+    ("bilisim", "Bilişim", "IT"),
+    ("eglence", "Eğlence", "Entertainment"),
 ]
 
-conn = psycopg2.connect("postgresql://postgres:postgres@localhost:5432/chatbot_db")
+conn = psycopg2.connect("postgresql://postgres:postgres@localhost:5433/chatbot_db")
 conn.autocommit = True
 cur = conn.cursor()
 for key, tr, en in ROWS:

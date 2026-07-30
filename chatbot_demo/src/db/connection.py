@@ -26,13 +26,13 @@ def _load_dotenv() -> None:
 
 
 def get_connection_url() -> str:
-    """DATABASE_URL veya yerel Postgres varsayılanı (5432 / chatbot_db)."""
+    """DATABASE_URL veya yerel Postgres varsayılanı (5433 / chatbot_db)."""
     _load_dotenv()
     url = (os.environ.get("DATABASE_URL") or "").strip()
     if url:
         return url
     return (
-        "postgresql+psycopg2://postgres:postgres@localhost:5432/chatbot_db"
+        "postgresql+psycopg2://postgres:postgres@localhost:5433/chatbot_db"
     )
 
 

@@ -81,10 +81,11 @@ def _run_seed(db: Session) -> SeedResponse:
     _cleanup_junk(db)
 
     sectors = [
-        ("health", "Sağlık", "Health"),
-        ("tourism", "Turizm", "Tourism"),
-        ("defense", "Savunma", "Defense"),
-        ("education", "Eğitim", "Education"),
+        ("health",        "Sağlık",  "Health"),
+        ("tourism",       "Turizm",  "Tourism"),
+        ("education",     "Eğitim",  "Education"),
+        ("it",            "Bilişim", "IT & Software"),
+        ("entertainment", "Eğlence", "Entertainment"),
     ]
     n_sec = 0
     sector_map: dict[str, Sector] = {}
@@ -93,11 +94,13 @@ def _run_seed(db: Session) -> SeedResponse:
         n_sec += 1
 
     intents = [
-        ("health_appointment", "https://example.com/forms/health", "Sağlık randevu formu"),
-        ("tourism_hotel", "https://example.com/forms/tourism", "Turizm konaklama formu"),
-        ("defense_inquiry", "https://example.com/forms/defense", "Savunma talep formu"),
-        ("education_enrollment", "https://example.com/forms/education", "Eğitim kayıt formu"),
-        ("sector_form_request", "https://example.com/forms/sector", "Genel sektör formu"),
+        # Beş sektör + OOD — build_index.py SEKTOR_TO_INTENT ile tam eşleşme
+        ("health_appointment",    "https://example.com/forms/health",         "Sağlık randevu formu"),
+        ("tourism_hotel",         "https://example.com/forms/tourism",        "Turizm konaklama formu"),
+        ("education_enrollment",  "https://example.com/forms/education",      "Eğitim kayıt formu"),
+        ("bilisim_integration",   "https://example.com/forms/bilisim",        "Bilişim entegrasyon formu"),
+        ("eglence_streaming",     "https://example.com/forms/eglence",        "Eğlence yayın platform formu"),
+        ("sector_form_request",   "https://example.com/forms/sector",         "Genel sektör formu"),
     ]
     n_int = 0
     intent_map: dict[str, Intent] = {}
@@ -106,10 +109,11 @@ def _run_seed(db: Session) -> SeedResponse:
         n_int += 1
 
     companies = [
-        ("Acme Sağlık A.Ş.", "health"),
-        ("Gamma Turizm A.Ş.", "tourism"),
-        ("Delta Savunma Ltd.", "defense"),
-        ("Epsilon Eğitim A.Ş.", "education"),
+        ("Acme Sağlık A.Ş.",       "health"),
+        ("Gamma Turizm A.Ş.",      "tourism"),
+        ("Epsilon Eğitim A.Ş.",    "education"),
+        ("Zeta Bilişim Ltd.",       "it"),
+        ("Eta Eğlence A.Ş.",       "entertainment"),
     ]
     n_co = 0
     for name, sk in companies:
@@ -173,10 +177,11 @@ def _run_seed(db: Session) -> SeedResponse:
 
     n_qa = 0
     samples = [
-        ("health_appointment", "Hastane randevu sistemi arıyoruz", "Sağlık formuna yönlendiriliyorsunuz"),
-        ("tourism_hotel", "Otel rezervasyon yazılımı lazım", "Turizm formuna yönlendiriliyorsunuz"),
-        ("defense_inquiry", "Askeri lojistik yazılımı hakkında bilgi", "Savunma formuna yönlendiriliyorsunuz"),
-        ("education_enrollment", "Öğrenci bilgi sistemi istiyoruz", "Eğitim formuna yönlendiriliyorsunuz"),
+        ("health_appointment",    "Hastane randevu sistemi arıyoruz",           "Sağlık formuna yönlendiriliyorsunuz"),
+        ("tourism_hotel",         "Otel rezervasyon yazılımı lazım",             "Turizm formuna yönlendiriliyorsunuz"),
+        ("education_enrollment",  "Öğrenci bilgi sistemi istiyoruz",             "Eğitim formuna yönlendiriliyorsunuz"),
+        ("bilisim_integration",   "ERP entegrasyonu ve API geliştirme",          "Bilişim formuna yönlendiriliyorsunuz"),
+        ("eglence_streaming",     "OTT streaming platformu yayın lisansı",       "Eğlence formuna yönlendiriliyorsunuz"),
     ]
     emb = [0.01 * ((i % 10) + 1) for i in range(EMBEDDING_DIM)]
     for code, q, a in samples:

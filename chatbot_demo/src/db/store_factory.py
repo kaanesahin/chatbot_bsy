@@ -172,8 +172,9 @@ def open_vector_store(*, prefer_pg: bool = True) -> Any:
             with engine.connect() as conn:
                 conn.exec_driver_sql("SELECT 1")
             
-            store = QaEmbeddingDbStore()
-            msg = "Connected to database vector store (table: qa_embeddings)"
+            from src.db.vector_store import VectorIndexStore
+            store = VectorIndexStore()
+            msg = "Connected to database vector store (table: vector_index)"
             logger.info(msg)
             print(msg, flush=True)
             return store
